@@ -28,9 +28,13 @@ ENV/
 .env/
 .ENV/
 
-# Jupyter Notebook
+# Jupyter Notebook - Sadece belirli dosyaları hariç tut
 .ipynb_checkpoints/
+model/diger/*.ipynb
+diger/*.ipynb
 *.ipynb
+!model/main-gemma.ipynb
+!model/response-gemma.ipynb
 
 # Model dosyaları ve klasörleri
 model/embeddings.pkl
