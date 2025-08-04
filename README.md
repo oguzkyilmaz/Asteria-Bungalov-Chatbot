@@ -1,6 +1,8 @@
 Asteria Bungalov Yapay Zekâ Sohbet Asistanı
 Bu proje, Asteria Bungalov için özel olarak tasarlanmış, Türkçe konuşabilen bir yapay zekâ sohbet asistanıdır. Müşteri hizmetlerini otomatize etmek amacıyla, spesifik ve doğru cevaplar verebilen bir dil modeli üzerine inşa edilmiştir.
 
+<img width="1901" height="888" alt="Ekran görüntüsü 2025-08-04 233029" src="https://github.com/user-attachments/assets/a57b86ba-fa4f-4302-ac13-5c50adb26b1c" />
+
 Projenin Temel Özellikleri
 Veri Odaklı Eğitim: Gerçek müşteri verilerinden oluşturulan 700'den fazla soru-cevap çifti ile eğitildi.
 
