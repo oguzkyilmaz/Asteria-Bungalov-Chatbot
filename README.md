@@ -15,7 +15,7 @@ Bu proje, Asteria Bungalov için özel olarak tasarlanmış, Türkçe konuşabil
 
 - Tamamen Türkçe: Türkçe dilinde sorunsuz bir şekilde çalışacak şekilde optimize edildi.
 
-# Modelin Özel Yeteneği: Net Cevaplar
+# Modelin Cevap Stratejisi
 - Bir işletme için geliştirilen özel bir yapay zekâ asistanında, genel amaçlı bir dil modelinin rastgele yaratıcı cevaplar vermesi yerine, güvenilir ve kesin bilgiler sunması esastır.
 
 - Modelin Supervised Fine-Tuning ile özel bir veri seti üzerinde eğitilmesi sayesinde, genelleme yeteneği bilerek daraltılmıştır. Böylece model, kendisine sorulan soruları, eğitildiği özel verilerdeki kalıplara göre yanıtlamayı öğrenerek Asteria Bungalov'a özel konularda kesin ve güvenilir bilgiler sunacak şekilde özelleştirilmiştir.
