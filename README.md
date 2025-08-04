@@ -23,6 +23,8 @@ Asteria Bungalov için özel olarak tasarlanmış, Türkçe konuşabilen bir yap
 # Teknolojiler
 * Temel Model: 'ytu-ce-cosmos/Turkish-Gemma-9b-v0.1'
 
+* Model Reposu: `oguzkyilmaz/Asteria-Bungalov-Gemma-9B`
+
 * İnce Ayar Yöntemi: LoRA
 
 * Kullanılan Kütüphaneler: bitsandbytes, transformers, peft
@@ -30,8 +32,7 @@ Asteria Bungalov için özel olarak tasarlanmış, Türkçe konuşabilen bir yap
 * Eğitim Ortamı: Google Colab
 
 * Frontend: React, MUI
-* 
-* **Model Reposu:** `oguzkyilmaz/Asteria-Bungalov-Gemma-9B`
+  
 
 
 # Model Repo: oguzkyilmaz/Asteria-Bungalov-Gemma-9B
