@@ -35,5 +35,5 @@ Asteria Bungalov için özel olarak tasarlanmış, Türkçe konuşabilen bir yap
   
 
 
-# Model Repo: oguzkyilmaz/Asteria-Bungalov-Gemma-9B
+'oguzkyilmaz/Asteria-Bungalov-Gemma-9B'
 
