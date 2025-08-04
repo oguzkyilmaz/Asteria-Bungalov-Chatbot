@@ -1,4 +1,4 @@
-**Asteria Bungalov Yapay Zekâ Sohbet Asistanı**
+# **Asteria Bungalov Yapay Zekâ Sohbet Asistanı**
 
 
 Bu proje, Asteria Bungalov için özel olarak tasarlanmış, Türkçe konuşabilen bir yapay zekâ sohbet asistanıdır. Müşteri hizmetlerini otomatize etmek amacıyla, spesifik ve doğru cevaplar verebilen bir dil modeli üzerine inşa edilmiştir.
