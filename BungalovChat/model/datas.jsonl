@@ -1,0 +1,766 @@
+{"messages": [{"role": "user", "content": "İmkanlarınız nelerdir?"}, {"role": "assistant", "content": "Bungalovumuzda jakuzi, deniz manzarası, açık büfe kahvaltı, Android TV (Netflix, YouTube), Amerikan mutfak ve Wi-Fi gibi olanaklar sunulmaktadır."}]}
+{"messages": [{"role": "user", "content": "Organizasyon hizmetiniz var mı?"}, {"role": "assistant", "content": "Evet, bungalovumuzda özel günleriniz için organizasyon ve süsleme hizmetleri sunmaktayız."}]}
+{"messages": [{"role": "user", "content": "Bungalov nerede bulunuyor?"}, {"role": "assistant", "content": "Bungalovumuz Giresun-Keşap otoyolu kenarında yer almakta olup, Giresun merkeze 5-10 dakika uzaklıktadır."}]}
+{"messages": [{"role": "user", "content": "Barbekü alanınız bulunuyor mu?"}, {"role": "assistant", "content": "Evet, tesisimizde misafirlerin kullanımına açık özel barbekü alanı vardır. Izgara araç-gereçlerini biz sağlıyoruz, kömür ya da odun kendiniz getirebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Açık büfe kahvaltı var mı?"}, {"role": "assistant", "content": "Evet, sabahları açık büfe kahvaltı servisimiz bulunmaktadır."}]}
+{"messages": [{"role": "user", "content": "Evcil hayvan kabul ediyor musunuz?"}, {"role": "assistant", "content": "Evet, evcil hayvan kabul edilmektedir."}]}
+{"messages": [{"role": "user", "content": "Giriş çıkış saatleri nedir?"}, {"role": "assistant", "content": "Giriş saati 14:30, çıkış saati ise 13:00'tür."}]}
+{"messages": [{"role": "user", "content": "Android TV var mı?"}, {"role": "assistant", "content": "Evet, Android TV desteğimiz bulunmaktadır. Android TV üzerinden de sistemimize kolayca erişebilir ve hizmetlerimizden faydalanabilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Bilgi alabilir miyim?"}, {"role": "assistant", "content": "Elbette! Bungalovumuz Giresun-Keşap otoyolu kenarında yer almakta olup, sabah kahvaltısı, jakuzi, deniz manzarası ve birçok konforlu detay ile hizmet vermektedir. Dilerseniz daha spesifik sorularınızı da memnuniyetle yanıtlayabilirim."}]}
+{"messages": [{"role": "user", "content": "Temizlik standartlarınız nedir?"}, {"role": "assistant", "content": "Misafirlerimizin sağlığı ve konforu bizim için önceliklidir. Bungalovlarımız her giriş öncesinde detaylı bir şekilde temizlenmekte, nevresim ve havlular yüksek sıcaklıkta yıkanmaktadır. Temizlikte hijyen standartlarına uygun profesyonel ürünler kullanılmaktadır."}]}
+{"messages": [{"role": "user", "content": "Kahvaltı saat kaçta başlıyor?"}, {"role": "assistant", "content": "Kahvaltı her sabah 08:00'de başlıyor ve 10:30'a kadar sürüyor."}]}
+{"messages": [{"role": "user", "content": "Genel olarak bilgi verebilir misiniz?"}, {"role": "assistant", "content": "Memnuniyetle. Bungalovumuz Giresun merkeze 5-10 dakika mesafede yer almaktadır. Jakuzili, manzaralı, kahvaltı dahil, çift kişilik konaklamalara uygun bir ortam sunmaktayız."}]}
+{"messages": [{"role": "user", "content": "Konaklama hakkında biraz bilgi verir misiniz?"}, {"role": "assistant", "content": "Elbette. Konaklamamız çift kişilik olup, sabahları açık büfe kahvaltı dahildir. Deniz manzaralı, jakuzili, Amerikan mutfaklı ve Android TV özellikli bir bungalovdur."}]}
+{"messages": [{"role": "user", "content": "Neler sunuyorsunuz?"}, {"role": "assistant", "content": "Misafirlerimize konforlu bir deneyim sunmak adına jakuzi, kahvaltı, Android TV, deniz manzarası, klima ve ücretsiz Wi-Fi gibi birçok olanak sunmaktayız."}]}
+{"messages": [{"role": "user", "content": "Detaylı bilgi verir misiniz?"}, {"role": "assistant", "content": "Bungalovumuz Giresun-Keşap otoyolu kenarında konumlanmıştır. Sabah açık büfe kahvaltı, jakuzi, deniz manzarası, Amerikan mutfak, Android TV (Netflix, YouTube) gibi birçok konforlu özelliğe sahiptir."}]}
+{"messages": [{"role": "user", "content": "Olanaklarınız neler?"}, {"role": "assistant", "content": "Bungalovumuzda sabah kahvaltısı, jakuzi, klima, deniz manzarası, Amerikan mutfak, Android TV ve Wi-Fi gibi birçok imkan bulunmaktadır. Dilerseniz detaylı bilgi de sunabilirim."}]}
+{"messages": [{"role": "user", "content": "Bungalovda neler var?"}, {"role": "assistant", "content": "Konaklama birimimizde jakuzi, deniz manzarası, klima, açık büfe kahvaltı, Amerikan mutfak ve Netflix gibi birçok olanak mevcuttur."}]}
+{"messages": [{"role": "user", "content": "Wi-Fi var mı?"}, {"role": "assistant", "content": "Evet, ücretsiz Wi-Fi bulunmaktadır."}]}
+{"messages": [{"role": "user", "content": "Evcil hayvan kabul ediyor musunuz?"}, {"role": "assistant", "content": "Hayır, evcil hayvan kabul edilmemektedir."}]}
+{"messages": [{"role": "user", "content": "Kahvaltı saatleri nedir?"}, {"role": "assistant", "content": "Sabah 08:00 - 10:30 arasıdır."}]}
+{"messages": [{"role": "user", "content": "Sabah kahvaltısı ücrete dahil mi?"}, {"role": "assistant", "content": "Evet, sabah açık büfe kahvaltı fiyata dahildir."}]}
+{"messages": [{"role": "user", "content": "Açık büfe kahvaltı var mı?"}, {"role": "assistant", "content": "Evet, sabahları açık büfe kahvaltı servisimiz bulunmaktadır."}]}
+{"messages": [{"role": "user", "content": "Kahvaltı dahil mi?"}, {"role": "assistant", "content": "Evet, sabah açık büfe kahvaltı fiyata dahildir."}]}
+{"messages": [{"role": "user", "content": "Bungalovun konumu nerede?"}, {"role": "assistant", "content": "Giresun-Keşap otoyol kenarında, Giresun merkeze yakın bir konumdadır."}]}
+{"messages": [{"role": "user", "content": "Nasıl ulaşım sağlayabiliriz?"}, {"role": "assistant", "content": "Giresun-Keşap otoyol kenarında olduğumuz için ulaşım oldukça kolaydır."}]}
+{"messages": [{"role": "user", "content": "Jakuzi var mı?"}, {"role": "assistant", "content": "Evet, bungalovumuzda jakuzi bulunmaktadır."}]}
+{"messages": [{"role": "user", "content": "Jakuzili mi?"}, {"role": "assistant", "content": "Evet, jakuzili bungalovlarımızda keyifli vakit geçirebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Netflix izleyebilir miyim?"}, {"role": "assistant", "content": "Evet, Android TV sayesinde Netflix'e erişebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Giriş ve çıkış saatleri nedir?"}, {"role": "assistant", "content": "Giriş saati 14:30, çıkış saati ise 13:00'tür."}]}
+{"messages": [{"role": "user", "content": "Giriş saati kaç?"}, {"role": "assistant", "content": "Giriş saati 14:30'dur."}]}
+{"messages": [{"role": "user", "content": "Saat kaçta giriş yapabiliriz?"}, {"role": "assistant", "content": "Girişler saat 14:30 itibarıyla yapılmaktadır."}]}
+{"messages": [{"role": "user", "content": "Çıkış saati ne zaman?"}, {"role": "assistant", "content": "Çıkış saati 13:00'dır."}]}
+{"messages": [{"role": "user", "content": "En geç ne zaman çıkış yapmalıyız?"}, {"role": "assistant", "content": "Çıkış işlemleri en geç 13:00'da tamamlanmalıdır."}]}
+{"messages": [{"role": "user", "content": "Otopark var mı?"}, {"role": "assistant", "content": "Arabanızı çekebilmeniz için alanımız mevcuttur."}]}
+{"messages": [{"role": "user", "content": "Kaç kişilik bir yer?"}, {"role": "assistant", "content": "İki kişilik konaklamalar için uygundur"}]}
+{"messages": [{"role": "user", "content": "Kaç kişilik konaklama yapılabiliyor?"}, {"role": "assistant", "content": "İki kişilik konaklamalar için uygundur"}]}
+{"messages": [{"role": "user", "content": "Mutfak var mı?"}, {"role": "assistant", "content": "Evet, Amerikan tipi mutfağımız mevcuttur."}]}
+{"messages": [{"role": "user", "content": "Fiyat kişi başı mı yoksa oda başı mı?"}, {"role": "assistant", "content": "Fiyat oda bazlıdır, iki kişilik konaklama için geçerlidir."}]}
+{"messages": [{"role": "user", "content": "Minimum kaç gece konaklama yapılabiliyor?"}, {"role": "assistant", "content": "Minimum 1 gece konaklama yapılabilir."}]}
+{"messages": [{"role": "user", "content": "Denize yakın mı?"}, {"role": "assistant", "content": "Evet, sahile oldukça yakın bir konumda bulunuyoruz."}]}
+{"messages": [{"role": "user", "content": "Yakınlarda market var mı?"}, {"role": "assistant", "content": "Evet, 5 dakikalık mesafede market bulunmaktadır."}]}
+{"messages": [{"role": "user", "content": "Çocuklar için uygun mu?"}, {"role": "assistant", "content": "Çocuklu aileler için de uygundur, Detaylı bilgi için bizimle iletişime geçin."}]}
+{"messages": [{"role": "user", "content": "Balayı için uygun mu?"}, {"role": "assistant", "content": "Evet, jakuzili ve manzaralı yapısıyla balayı çiftleri için uygundur."}]}
+{"messages": [{"role": "user", "content": "Hijyen kurallarına dikkat ediliyor mu?"}, {"role": "assistant", "content": "Evet, her konaklamadan sonra detaylı temizlik yapılmaktadır. Hijyen önceliğimizdir."}]}
+{"messages": [{"role": "user", "content": "Temizlik hizmeti sunuyor musunuz?"}, {"role": "assistant", "content": "Her misafir sonrası detaylı temizlik yapılmaktadır. Hijyen önceliğimizdir."}]}
+{"messages": [{"role": "user", "content": "Temizlik kurallarına dikkat ediliyor mu?"}, {"role": "assistant", "content": "Her misafir sonrası detaylı temizlik yapılmaktadır. Hijyen önceliğimizdir."}]}
+{"messages": [{"role": "user", "content": "Sigara içilebilir mi?"}, {"role": "assistant", "content": "Kapalı alanlarda sigara içmek yasaktır, açık alanda içilebilir."}]}
+{"messages": [{"role": "user", "content": "Sessiz bir ortam mı?"}, {"role": "assistant", "content": "Evet, doğa ile iç içe, sessiz ve sakin bir ortam sunuyoruz."}]}
+{"messages": [{"role": "user", "content": "Klima var mı?"}, {"role": "assistant", "content": "Evet, bungalovda klima mevcuttur."}]}
+{"messages": [{"role": "user", "content": "Netflix ücretli mi?"}, {"role": "assistant", "content": "Hayır, Netflix üyeliğimiz ücretsiz olarak sunulmaktadır."}]}
+{"messages": [{"role": "user", "content": "Otele Giresun şehir merkezinden nasıl ulaşabilirim?"}, {"role": "assistant", "content": "Giresun merkezinden Keşap minibüsleri bulunuyor, onları kullanarak Keşap sapağında inebilir ve kısa bir taksi yolculuğu ile tesisimize ulaşabilirsiniz. Özel araçla gelecekler için Karadeniz Sahil Yolu’nu takip etmeleri yeterlidir."}]}
+{"messages": [{"role": "user", "content": "Havalimanından transfer hizmetiniz var mı?"}, {"role": "assistant", "content": "Tesisimizin resmi bir transfer servisi yok. Havalimanından taksi veya araç kiralama ile gelmeniz gerekmektedir. Taksi ile yaklaşık 40–50 dakikada ulaşabilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Otele Giresun şehir merkezinden nasıl ulaşabilirim?"}, {"role": "assistant", "content": "Giresun merkezinden Keşap minibüsleri bulunuyor, onları kullanarak Keşap sapağında inebilir ve kısa bir taksi yolculuğu ile tesisimize ulaşabilirsiniz. Özel araçla gelecekler için Karadeniz Sahil Yolu’nu takip etmeleri yeterlidir."}]}
+{"messages": [{"role": "user", "content": "Park yeri ücretli mi?"}, {"role": "assistant", "content": "Otopark ücretsizdir. Tesisimize gelen misafirler arabalarını ücretsiz olarak park edebilir."}]}
+{"messages": [{"role": "user", "content": "Manzara nasıldır?"}, {"role": "assistant", "content": "Tesisimizin etrafı ormanlarla çevrilidir. Yemyeşil bir vadi manzarası sunar, kuş sesleri eşliğinde çok huzurludur."}]}
+{"messages": [{"role": "user", "content": "Bungalovda jakuzi var mı?"}, {"role": "assistant", "content": "Evet, bungalovumuzda jakuzili banyo bulunmaktadır."}]}
+{"messages": [{"role": "user", "content": "Barbekü alanınız bulunuyor mu?"}, {"role": "assistant", "content": "Evet, tesisimizde misafirlerin kullanımına açık barbekü alanı vardır. Izgara araç-gereçlerini biz sağlıyoruz, kömür ya da odun kendiniz getirebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Buzdolabı ve mutfak var mı?"}, {"role": "assistant", "content": "Odalarımızda mini buzdolabı bulunmaktadır. Amerikan tipi mutfağımız ve Barbekü için özel taş ocağımız mevcuttur."}]}
+{"messages": [{"role": "user", "content": "Kahvaltı saatleriniz nedir?"}, {"role": "assistant", "content": "Kahvaltımız her sabah 08:00-10:00 saatleri arasında açık büfe olarak servis edilir."}]}
+{"messages": [{"role": "user", "content": "Kahvaltı ücrete dahil mi?"}, {"role": "assistant", "content": "Evet, kahvaltı konaklama ücretine dahildir ve ücretsizdir."}]}
+{"messages": [{"role": "user", "content": "Akşam yemeği servisi yapıyor musunuz?"}, {"role": "assistant", "content": "Maalesef tesisimizde öğle/akşam yemeği servisi yok. Misafirlerimiz arzu ederlerse barbekü yapabilir veya çevredeki restoranları kullanabilir."}]}
+{"messages": [{"role": "user", "content": "Odalar ne sıklıkla temizleniyor?"}, {"role": "assistant", "content": "Odalar her çıkış sonrası temizlenir ve yeni nevresim-havlu takımları ile hazırlanır. Uzun konaklamalarda isteğe bağlı günlük temizlik hizmeti de sunulabilir."}]}
+{"messages": [{"role": "user", "content": "Havlu ve çarşaf değişimi nasıl yapılıyor?"}, {"role": "assistant", "content": "Her misafir için taze çarşaf ve havlu seti sağlanır. Konaklama boyunca istenirse taze havlu/nevresim değişimi yapılabilir."}]}
+{"messages": [{"role": "user", "content": "Tesis çevresi güvenli mi?"}, {"role": "assistant", "content": "Evet, bölgemiz sessiz ve güvenlidir. Doğayla iç içe sakin bir ortam sunar."}]}
+{"messages": [{"role": "user", "content": "Yürüyüş veya doğa aktiviteleri yapabilir miyiz?"}, {"role": "assistant", "content": "Evet, tesisimiz ormanlık alana yakın olduğu için doğa yürüyüşleri ve açık hava aktiviteleri için uygundur."}]}
+{"messages": [{"role": "user", "content": "Işık kirliliği var mı?"}, {"role": "assistant", "content": "Hayır, şehir ışıklarından uzakta olduğumuz için geceleri gökyüzü çok karanlık olur ve yıldızlar net görülür."}]}
+{"messages": [{"role": "user", "content": "Balayı için ekstra hizmetiniz var mı?"}, {"role": "assistant", "content": "Balayı çiftleri için organizasyon hizmeti sağlıyoruz. Lütfen rezervasyon sırasında belirtiniz ve kişiye özel organizasyon deneyiminin tadını çıkarın."}]}
+{"messages": [{"role": "user", "content": "Balayı çifti olarak gelebilir miyiz?"}, {"role": "assistant", "content": "Evet, her çift gibi balayı çiftlerini de sevinçle ağırlıyoruz. Jakuzili bungalovlarımız romantik bir ortam sağlar."}]}
+{"messages": [{"role": "user", "content": "Engelli misafirler için düzenlemeniz var mı?"}, {"role": "assistant", "content": "Evet, tesisimize engelli rampaları ve geniş geçiş alanları ile ulaşım mümkündür."}]}
+{"messages": [{"role": "user", "content": "Gecelik ücret ne kadar?"}, {"role": "assistant", "content": "Fiyatlarımız sezona, haftaiçi/haftasonu durumuna göre değişir. Güncel fiyat için lütfen bizimle iletişime geçin."}]}
+{"messages": [{"role": "user", "content": "Kapora / ön ödeme alıyor musunuz?"}, {"role": "assistant", "content": "Evet, rezervasyon için genelde %30 kaparo alınır. Kalan tutarı girişte nakit veya kredi kartıyla ödeyebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Fiyata kahvaltı dahil mi?"}, {"role": "assistant", "content": "Evet, tüm konaklamalarınızda kahvaltı fiyata dahildir."}]}
+{"messages": [{"role": "user", "content": "Erken rezervasyonda indirim yapıyor musunuz?"}, {"role": "assistant", "content": "Bazen sezon dışında veya erken rezervasyon durumunda kampanyalarımız olabiliyor; detaylı bilgi için iletişime geçebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Erken giriş yapabilir miyim?"}, {"role": "assistant", "content": "Erken giriş talebinizi önceden bildirirseniz, müsaitlik durumuna göre erkenden giriş yapma imkanı sunabiliriz."}]}
+{"messages": [{"role": "user", "content": "Geç çıkış mümkün mü?"}, {"role": "assistant", "content": "Geç çıkış genellikle ekstra ücrete tabidir. Lütfen çıkış saatini uzatmak isterseniz önceden haber veriniz."}]}
+{"messages": [{"role": "user", "content": "Tesisinizin özellikleri nelerdir?"}, {"role": "assistant", "content": "Bungalovumuzda jakuzi, doğa manzarası, açık büfe kahvaltı, Android TV (Netflix, YouTube), Amerikan mutfak, Barbekü taş ocağı ve Wi-Fi gibi olanaklar sunulmaktadır."}]}
+{"messages": [{"role": "user", "content": "Ne gibi hizmetleriniz var?"}, {"role": "assistant", "content": "Bungalovumuzda jakuzi, doğa manzarası, açık büfe kahvaltı, Android TV (Netflix, YouTube), Amerikan mutfak, Barbekü taş ocağı ve Wi-Fi gibi olanaklar sunulmaktadır."}]}
+{"messages": [{"role": "user", "content": "Bungalovda neler mevcut?"}, {"role": "assistant", "content": "Bungalovumuzda jakuzi, doğa manzarası, açık büfe kahvaltı, Android TV (Netflix, YouTube), Amerikan mutfak, Barbekü taş ocağı ve Wi-Fi gibi olanaklar sunulmaktadır."}]}
+{"messages": [{"role": "user", "content": "Sunduğunuz ayrıcalıklar nelerdir?"}, {"role": "assistant", "content": "Bungalovumuzda jakuzi, doğa manzarası, açık büfe kahvaltı, Android TV (Netflix, YouTube), Amerikan mutfak, Barbekü taş ocağı ve Wi-Fi gibi olanaklar sunulmaktadır."}]}
+{"messages": [{"role": "user", "content": "Sunduğunuz ayrıcalıklar nelerdir?"}, {"role": "assistant", "content": "Bungalovumuzda jakuzi, deniz manzarası, açık büfe kahvaltı, Android TV (Netflix, YouTube), Amerikan mutfak, Barbekü taş ocağı ve Wi-Fi gibi olanaklar sunulmaktadır."}]}
+{"messages": [{"role": "user", "content": "Bilgi alabilir miyim?"}, {"role": "assistant", "content": "Elbette! Bungalovumuz Giresun-Keşap otoyolu kenarında yer almakta olup, sabah kahvaltısı, jakuzi, doğa manzarası ve birçok konforlu detay ile hizmet vermektedir. Dilerseniz daha spesifik sorularınızı da memnuniyetle yanıtlayabilirim."}]}
+{"messages": [{"role": "user", "content": "Genel bilgi verebilir misiniz?"}, {"role": "assistant", "content": "Elbette! Bungalovumuz Giresun-Keşap otoyolu kenarında yer almakta olup, sabah kahvaltısı, jakuzi, doğa manzarası ve birçok konforlu detay ile hizmet vermektedir. Dilerseniz daha spesifik sorularınızı da memnuniyetle yanıtlayabilirim."}]}
+{"messages": [{"role": "user", "content": "Konaklama hakkında bilgi almak istiyorum."}, {"role": "assistant", "content": "Elbette! Bungalovumuz Giresun-Keşap otoyolu kenarında yer almakta olup, sabah kahvaltısı, jakuzi, doğa manzarası ve birçok konforlu detay ile hizmet vermektedir. Dilerseniz daha spesifik sorularınızı da memnuniyetle yanıtlayabilirim."}]}
+{"messages": [{"role": "user", "content": "Tesisinizle ilgili detayları öğrenebilir miyim?"}, {"role": "assistant", "content": "Elbette! Bungalovumuz Giresun-Keşap otoyolu kenarında yer almakta olup, sabah kahvaltısı, jakuzi, doğa manzarası ve birçok konforlu detay ile hizmet vermektedir. Dilerseniz daha spesifik sorularınızı da memnuniyetle yanıtlayabilirim."}]}
+{"messages": [{"role": "user", "content": "Genel olarak bilgi verebilir misiniz?"}, {"role": "assistant", "content": "Memnuniyetle. Bungalovumuz Giresun merkeze 5-10 dakika mesafede yer almaktadır. Jakuzili, manzaralı, kahvaltı dahil, çift kişilik konaklamalara uygun bir ortam sunmaktayız."}]}
+{"messages": [{"role": "user", "content": "Konaklamamız nasıl olacak?"}, {"role": "assistant", "content": "Memnuniyetle. Bungalovumuz Giresun merkeze 5-10 dakika mesafede yer almaktadır. Jakuzili, manzaralı, kahvaltı dahil, çift kişilik konaklamalara uygun bir ortam sunmaktayız."}]}
+{"messages": [{"role": "user", "content": "Tesisinizde çift olarak mı kalıyoruz?"}, {"role": "assistant", "content": "Memnuniyetle. Bungalovumuz Giresun merkeze 5-10 dakika mesafede yer almaktadır. Jakuzili, manzaralı, kahvaltı dahil, çift kişilik konaklamalara uygun bir ortam sunmaktayız."}]}
+{"messages": [{"role": "user", "content": "Konaklama hakkında biraz bilgi verir misiniz?"}, {"role": "assistant", "content": "Elbette. Konaklamamız çift kişilik olup, sabahları açık büfe kahvaltı dahildir. Doğa manzaralı, jakuzili, Amerikan mutfaklı ve Android TV özellikli bir bungalovdur."}]}
+{"messages": [{"role": "user", "content": "Oda özellikleri neler?"}, {"role": "assistant", "content": "Elbette. Konaklamamız çift kişilik olup, sabahları açık büfe kahvaltı dahildir. Doğa manzaralı, jakuzili, Amerikan mutfaklı ve Android TV özellikli bir bungalovdur."}]}
+{"messages": [{"role": "user", "content": "Bungalovunuz çiftlere mi özel?"}, {"role": "assistant", "content": "Elbette. Konaklamamız çift kişilik olup, sabahları açık büfe kahvaltı dahildir. Doğa manzaralı, jakuzili, Amerikan mutfaklı ve Android TV özellikli bir bungalovdur."}]}
+{"messages": [{"role": "user", "content": "Detaylı bilgi verir misiniz?"}, {"role": "assistant", "content": "Bungalovumuz Giresun-Keşap otoyolu kenarında konumlanmıştır. Sabah açık büfe kahvaltı, jakuzi, deniz manzarası, Amerikan mutfak, Android TV (Netflix, YouTube) gibi birçok konforlu özelliğe sahiptir."}]}
+{"messages": [{"role": "user", "content": "Tesisiniz hakkında daha fazla bilgiye ihtiyacım var."}, {"role": "assistant", "content": "Bungalovumuz Giresun-Keşap otoyolu kenarında konumlanmıştır. Sabah açık büfe kahvaltı, jakuzi, deniz manzarası, Amerikan mutfak, Android TV (Netflix, YouTube) gibi birçok konforlu özelliğe sahiptir."}]}
+{"messages": [{"role": "user", "content": "Bungalovunuzun tam donanımını öğrenebilir miyim?"}, {"role": "assistant", "content": "Bungalovumuz Giresun-Keşap otoyolu kenarında konumlanmıştır. Sabah açık büfe kahvaltı, jakuzi, deniz manzarası, Amerikan mutfak, Android TV (Netflix, YouTube) gibi birçok konforlu özelliğe sahiptir."}]}
+{"messages": [{"role": "user", "content": "Wi-Fi var mı?"}, {"role": "assistant", "content": "Evet, ücretsiz Wi-Fi bulunmaktadır."}]}
+{"messages": [{"role": "user", "content": "İnternet bağlantısı mevcut mu?"}, {"role": "assistant", "content": "Evet, ücretsiz Wi-Fi bulunmaktadır."}]}
+{"messages": [{"role": "user", "content": "Ücretsiz internetiniz var mı?"}, {"role": "assistant", "content": "Evet, ücretsiz Wi-Fi bulunmaktadır."}]}
+{"messages": [{"role": "user", "content": "Hayvan dostu musunuz?"}, {"role": "assistant", "content": "Evet, evcil hayvan kabul edilmektedir."}]}
+{"messages": [{"role": "user", "content": "Evcil hayvanımla gelebilir miyim?"}, {"role": "assistant", "content": "Evet, evcil hayvan kabul edilmektedir."}]}
+{"messages": [{"role": "user", "content": "Kahvaltı saatleri nedir?"}, {"role": "assistant", "content": "Sabah 08:00 - 10:30 arasıdır."}]}
+{"messages": [{"role": "user", "content": "Sabah kahvaltısı ne zaman?"}, {"role": "assistant", "content": "Sabah 08:00 - 10:30 arasıdır."}]}
+{"messages": [{"role": "user", "content": "Kahvaltı kaça kadar sürüyor?"}, {"role": "assistant", "content": "Sabah 08:00 - 10:30 arasıdır."}]}
+{"messages": [{"role": "user", "content": "Sabah kahvaltısı ücrete dahil mi?"}, {"role": "assistant", "content": "Evet, sabah açık büfe kahvaltı fiyata dahildir."}]}
+{"messages": [{"role": "user", "content": "Kahvaltı için ek ücret ödememiz gerekiyor mu?"}, {"role": "assistant", "content": "Evet, sabah açık büfe kahvaltı fiyata dahildir."}]}
+{"messages": [{"role": "user", "content": "Kahvaltı dahil mi?"}, {"role": "assistant", "content": "Evet, sabah açık büfe kahvaltı fiyata dahildir."}]}
+{"messages": [{"role": "user", "content": "Serpme kahvaltı mı?"}, {"role": "assistant", "content": "Evet, sabahları açık büfe kahvaltı servisimiz bulunmaktadır."}]}
+{"messages": [{"role": "user", "content": "Kahvaltıda seçenekler bol mu?"}, {"role": "assistant", "content": "Evet, sabahları açık büfe kahvaltı servisimiz bulunmaktadır."}]}
+{"messages": [{"role": "user", "content": "Bungalovun konumu nerede?"}, {"role": "assistant", "content": "Giresun-Keşap otoyol kenarında, Giresun Merkeze 5 dakika mesafededir."}]}
+{"messages": [{"role": "user", "content": "Tam olarak neredesiniz?"}, {"role": "assistant", "content": "Giresun-Keşap otoyol kenarında, Giresun Merkeze 5 dakika mesafededir."}]}
+{"messages": [{"role": "user", "content": "Giresun merkeze uzaklığınız ne kadar?"}, {"role": "assistant", "content": "Giresun-Keşap otoyol kenarında, Giresun Merkeze 5 dakika mesafededir."}]}
+{"messages": [{"role": "user", "content": "Bungalov nerede bulunuyor?"}, {"role": "assistant", "content": "Bungalovumuz Giresun-Keşap otoyolu kenarında yer almakta olup, Giresun merkeze 5 dakika uzaklıktadır."}]}
+{"messages": [{"role": "user", "content": "Jakuzi var mı?"}, {"role": "assistant", "content": "Evet, bungalovumuzda jakuzi bulunmaktadır."}]}
+{"messages": [{"role": "user", "content": "Jakuzili mi?"}, {"role": "assistant", "content": "Evet, jakuzili bungalovumuzda keyifli vakit geçirebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Odalarda jakuzi bulunuyor mu?"}, {"role": "assistant", "content": "Evet, jakuzili bungalovumuzda keyifli vakit geçirebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Netflix izleyebilir miyim?"}, {"role": "assistant", "content": "Evet, Android TV sayesinde Netflix'e erişebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "TV'de Netflix var mı?"}, {"role": "assistant", "content": "Evet, Android TV sayesinde Netflix'e erişebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Giriş ve çıkış saatleri nedir?"}, {"role": "assistant", "content": "Giriş saati 14:30, çıkış saati ise 13:00'tür."}]}
+{"messages": [{"role": "user", "content": "Giriş saati kaç?"}, {"role": "assistant", "content": "Giriş saati 14:30'dur."}]}
+{"messages": [{"role": "user", "content": "Saat kaçta giriş yapabiliriz?"}, {"role": "assistant", "content": "Girişler saat 14:30 itibarıyla yapılmaktadır."}]}
+{"messages": [{"role": "user", "content": "Çıkış saati ne zaman?"}, {"role": "assistant", "content": "Çıkış saati 13:00'dır."}]}
+{"messages": [{"role": "user", "content": "En geç ne zaman çıkış yapmalıyız?"}, {"role": "assistant", "content": "Çıkış işlemleri en geç 13:00'da tamamlanmalıdır."}]}
+{"messages": [{"role": "user", "content": "Otopark var mı?"}, {"role": "assistant", "content": "Arabanızı çekebilmeniz için alanımız mevcuttur."}]}
+{"messages": [{"role": "user", "content": "Park yeri bulunuyor mu?"}, {"role": "assistant", "content": "Arabanızı çekebilmeniz için alanımız mevcuttur."}]}
+{"messages": [{"role": "user", "content": "Ücretsiz otoparkınız var mı?"}, {"role": "assistant", "content": "Arabanızı çekebilmeniz için alanımız mevcuttur."}]}
+{"messages": [{"role": "user", "content": "Kaç kişilik bir yer?"}, {"role": "assistant", "content": "İki kişilik konaklamalar için uygundur"}]}
+{"messages": [{"role": "user", "content": "Kaç kişi kalabiliyor?"}, {"role": "assistant", "content": "İki kişilik konaklamalar için uygundur"}]}
+{"messages": [{"role": "user", "content": "Bungalov kaç kişilik?"}, {"role": "assistant", "content": "İki kişilik konaklamalar için uygundur"}]}
+{"messages": [{"role": "user", "content": "Mutfak var mı?"}, {"role": "assistant", "content": "Evet, Amerikan tipi mutfağımız mevcuttur."}]}
+{"messages": [{"role": "user", "content": "Amerikan mutfak mevcut mu?"}, {"role": "assistant", "content": "Evet, Amerikan tipi mutfağımız mevcuttur."}]}
+{"messages": [{"role": "user", "content": "Fiyat kişi başı mı yoksa oda başı mı?"}, {"role": "assistant", "content": "Fiyat oda bazlıdır, iki kişilik konaklama için geçerlidir."}]}
+{"messages": [{"role": "user", "content": "Minimum kaç gece konaklama yapılabiliyor?"}, {"role": "assistant", "content": "Minimum 1 gece konaklama yapılabilir."}]}
+{"messages": [{"role": "user", "content": "En az kaç gün kalabiliriz?"}, {"role": "assistant", "content": "Minimum 1 gece konaklama yapılabilir."}]}
+{"messages": [{"role": "user", "content": "Denize yakın mı?"}, {"role": "assistant", "content": "Evet, sahile oldukça yakın bir konumda bulunuyoruz."}]}
+{"messages": [{"role": "user", "content": "Yakınlarda market var mı?"}, {"role": "assistant", "content": "Evet, 5 dakikalık mesafede market bulunmaktadır."}]}
+{"messages": [{"role": "user", "content": "Yakın çevrede alışveriş yapabileceğimiz yer var mı?"}, {"role": "assistant", "content": "Evet, 5 dakikalık mesafede market bulunmaktadır."}]}
+{"messages": [{"role": "user", "content": "Çocuklar için uygun mu?"}, {"role": "assistant", "content": "Çocuklu aileler için de uygundur, Detaylı bilgi için bizimle iletişime geçin"}]}
+{"messages": [{"role": "user", "content": "Aileler konaklayabilir mi?"}, {"role": "assistant", "content": "Çocuklu aileler için de uygundur, Detaylı bilgi için bizimle iletişime geçin"}]}
+{"messages": [{"role": "user", "content": "Çocuklu aileler için uygun mu?"}, {"role": "assistant", "content": "Evet, çocuklu ailelere uygundur. Geniş bahçe alanımız çocukların güvenle oynayabileceği bir ortam sunar."}]}
+{"messages": [{"role": "user", "content": "Balayı için uygun mu?"}, {"role": "assistant", "content": "Evet, jakuzili ve manzaralı yapısıyla balayı çiftleri için uygundur."}]}
+{"messages": [{"role": "user", "content": "Romantik bir konaklama için ideal mi?"}, {"role": "assistant", "content": "Evet, jakuzili ve manzaralı yapısıyla balayı çiftleri için uygundur."}]}
+{"messages": [{"role": "user", "content": "Hijyen kurallarına dikkat ediliyor mu?"}, {"role": "assistant", "content": "Evet, her konaklamadan sonra detaylı temizlik yapılmaktadır. Hijyen önceliğimizdir."}]}
+{"messages": [{"role": "user", "content": "Temizlik hizmeti sunuyor musunuz?"}, {"role": "assistant", "content": "Her misafir sonrası detaylı temizlik yapılmaktadır. Hijyen önceliğimizdir."}]}
+{"messages": [{"role": "user", "content": "Temizlik kurallarına dikkat ediliyor mu?"}, {"role": "assistant", "content": "Her misafir sonrası detaylı temizlik yapılmaktadır. Hijyen önceliğimizdir."}]}
+{"messages": [{"role": "user", "content": "Sigara içilebilir mi?"}, {"role": "assistant", "content": "Kapalı alanlarda sigara içmek yasaktır, açık alanda içilebilir."}]}
+{"messages": [{"role": "user", "content": "Sigara içme alanı var mı?"}, {"role": "assistant", "content": "Kapalı alanlarda sigara içmek yasaktır, açık alanda içilebilir."}]}
+{"messages": [{"role": "user", "content": "Odalarda sigara içmek serbest mi?"}, {"role": "assistant", "content": "Kapalı alanlarda sigara içmek yasaktır, açık alanda içilebilir."}]}
+{"messages": [{"role": "user", "content": "Sessiz bir ortam mı?"}, {"role": "assistant", "content": "Evet, doğa ile iç içe, sessiz ve sakin bir ortam sunuyoruz."}]}
+{"messages": [{"role": "user", "content": "Rahat bir ortamınız var mı?"}, {"role": "assistant", "content": "Evet, doğa ile iç içe, sessiz ve sakin bir ortam sunuyoruz."}]}
+{"messages": [{"role": "user", "content": "Klima var mı?"}, {"role": "assistant", "content": "Evet, bungalovda klima mevcuttur."}]}
+{"messages": [{"role": "user", "content": "Klimalı mı odalar?"}, {"role": "assistant", "content": "Evet, bungalovda klima mevcuttur."}]}
+{"messages": [{"role": "user", "content": "Netflix ücretli mi?"}, {"role": "assistant", "content": "Hayır, Netflix üyeliğimiz ücretsiz olarak sunulmaktadır."}]}
+{"messages": [{"role": "user", "content": "Netflix'e erişim için ek ücret ödemem gerekiyor mu?"}, {"role": "assistant", "content": "Hayır, Netflix üyeliğimiz ücretsiz olarak sunulmaktadır."}]}
+{"messages": [{"role": "user", "content": "Park yeri ücretli mi?"}, {"role": "assistant", "content": "Otopark ücretsizdir. Tesisimize gelen misafirler arabalarını ücretsiz olarak park edebilir."}]}
+{"messages": [{"role": "user", "content": "Araç park ücreti alıyor musunuz?"}, {"role": "assistant", "content": "Otopark ücretsizdir. Tesisimize gelen misafirler arabalarını ücretsiz olarak park edebilir."}]}
+{"messages": [{"role": "user", "content": "Manzara nasıldır?"}, {"role": "assistant", "content": "Tesisimizin etrafı ormanlarla çevrilidir. Yemyeşil bir vadi manzarası sunar, kuş sesleri eşliğinde çok huzurludur."}]}
+{"messages": [{"role": "user", "content": "Ne tür bir manzara bizi bekliyor?"}, {"role": "assistant", "content": "Tesisimizin etrafı ormanlarla çevrilidir. Yemyeşil bir vadi manzarası sunar, kuş sesleri eşliğinde çok huzurludur."}]}
+{"messages": [{"role": "user", "content": "Bungalovda jakuzi var mı?"}, {"role": "assistant", "content": "Evet, her bungalovda jakuzili banyo bulunmaktadır. Kullanımı ücretsizdir."}]}
+{"messages": [{"role": "user", "content": "Mangal yapabilir miyiz?"}, {"role": "assistant", "content": "Evet, tesisimizde misafirlerin kullanımına açık barbekü alanı vardır. Izgara araç-gereçlerini biz sağlıyoruz, kömür ya da odun kendiniz getirebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Ücretsiz Wi-Fi sunuyor musunuz?"}, {"role": "assistant", "content": "Evet, tüm tesis genelinde ücretsiz Wi-Fi erişimi mevcuttur. Internet bağlantısı sağlam ve kesintisizdir."}]}
+{"messages": [{"role": "user", "content": "Buzdolabı ve mutfak var mı?"}, {"role": "assistant", "content": "Odalarımızda mini buzdolabı bulunmaktadır. Mutfak eşyaları sınırlıdır; yemek yapmak isterseniz barbekü veya ihtiyaca yönelik temel ekipmanlarla yardımcı olabiliriz."}]}
+{"messages": [{"role": "user", "content": "Kahvaltı saatleriniz nedir?"}, {"role": "assistant", "content": "Kahvaltımız her sabah 08:00-10:30 saatleri arasında açık büfe olarak servis edilir."}]}
+{"messages": [{"role": "user", "content": "Kahvaltı ne zaman başlıyor ve bitiyor?"}, {"role": "assistant", "content": "Kahvaltımız her sabah 08:00-10:30 saatleri arasında açık büfe olarak servis edilir."}]}
+{"messages": [{"role": "user", "content": "Kahvaltı ücrete dahil mi?"}, {"role": "assistant", "content": "Evet, kahvaltı konaklama ücretine dahildir ve ücretsizdir."}]}
+{"messages": [{"role": "user", "content": "Akşam yemeği servisi yapıyor musunuz?"}, {"role": "assistant", "content": "Maalesef tesisimizde öğle/akşam yemeği servisi yok. Misafirlerimiz arzu ederlerse barbekü yapabilir veya çevredeki restoranları kullanabilir."}]}
+{"messages": [{"role": "user", "content": "Öğle veya akşam yemeği için bir restoranınız var mı?"}, {"role": "assistant", "content": "Maalesef tesisimizde öğle/akşam yemeği servisi yok. Misafirlerimiz arzu ederlerse barbekü yapabilir veya çevredeki restoranları kullanabilir."}]}
+{"messages": [{"role": "user", "content": "Odalar ne sıklıkla temizleniyor?"}, {"role": "assistant", "content": "Odalar her çıkış sonrası temizlenir ve yeni nevresim-havlu takımları ile hazırlanır. Uzun konaklamalarda isteğe bağlı günlük temizlik hizmeti de sunulabilir."}]}
+{"messages": [{"role": "user", "content": "Günlük temizlik imkanı var mı?"}, {"role": "assistant", "content": "Odalar her çıkış sonrası temizlenir ve yeni nevresim-havlu takımları ile hazırlanır. Uzun konaklamalarda isteğe bağlı günlük temizlik hizmeti de sunulabilir."}]}
+{"messages": [{"role": "user", "content": "Havlu ve çarşaf değişimi nasıl yapılıyor?"}, {"role": "assistant", "content": "Her misafir için taze çarşaf ve havlu seti sağlanır. Konaklama boyunca istenirse taze havlu/nevresim değişimi yapılabilir."}]}
+{"messages": [{"role": "user", "content": "Tesis çevresi güvenli mi?"}, {"role": "assistant", "content": "Evet, bölgemiz sessiz ve güvenlidir. Doğayla iç içe sakin bir ortam sunar."}]}
+{"messages": [{"role": "user", "content": "Güvenlik durumunuz nedir?"}, {"role": "assistant", "content": "Evet, bölgemiz sessiz ve güvenlidir. Doğayla iç içe sakin bir ortam sunar."}]}
+{"messages": [{"role": "user", "content": "Yürüyüş veya doğa aktiviteleri yapabilir miyiz?"}, {"role": "assistant", "content": "Evet, tesisimiz ormanlık alana yakın olduğu için doğa yürüyüşleri ve açık hava aktiviteleri için uygundur. Balık tutmak için yakın bir dere de vardır."}]}
+{"messages": [{"role": "user", "content": "Balayı için ekstra hizmetiniz var mı?"}, {"role": "assistant", "content": "Balayı çiftleri için organizasyon hizmeti sağlıyoruz. Lütfen rezervasyon sırasında belirtiniz ve kişiye özel organizasyon deneyiminin tadını çıkarın."}]}
+{"messages": [{"role": "user", "content": "Yeni evliler için özel bir şeyler sunuyor musunuz?"}, {"role": "assistant", "content": "Balayı çiftleri için organizasyon hizmeti sağlıyoruz. Lütfen rezervasyon sırasında belirtiniz ve kişiye özel organizasyon deneyiminin tadını çıkarın."}]}
+{"messages": [{"role": "user", "content": "Gecelik ücret ne kadar?"}, {"role": "assistant", "content": "Fiyatlarımız sezona, haftaiçi/haftasonu durumuna göre değişir. Güncel fiyat için lütfen bizimle iletişime geçin."}]}
+{"messages": [{"role": "user", "content": "Güncel fiyatları öğrenebilir miyim?"}, {"role": "assistant", "content": "Fiyatlarımız sezona, haftaiçi/haftasonu durumuna göre değişir. Güncel fiyat için lütfen bizimle iletişime geçin."}]}
+{"messages": [{"role": "user", "content": "Erken girebiliyo muyuz"}, {"role": "assistant", "content": "Erken giriş talebinizi önceden bildirirseniz, müsaitlik durumuna göre erkenden giriş yapma imkanı sunabiliriz."}]}
+{"messages": [{"role": "user", "content": "Geç çıksak olur mu"}, {"role": "assistant", "content": "Geç çıkış genellikle ekstra ücrete tabidir. Lütfen çıkış saatini uzatmak isterseniz önceden haber veriniz."}]}
+{"messages": [{"role": "user", "content": "Organizasyon ve süsleme için hizmetiniz var mı?"}, {"role": "assistant", "content": "Evet, bungalovumuzda özel günleriniz için organizasyon ve süsleme hizmetleri sunmaktayız."}]}
+{"messages": [{"role": "user", "content": "Doğum günü süslemesi yapıyor musunuz?"}, {"role": "assistant", "content": "Evet, talep üzerine doğum günü konseptinde süslemeler yapabiliriz. Lütfen rezervasyon sırasında detayları belirtiniz."}]}
+{"messages": [{"role": "user", "content": "Evlilik teklifi organizasyonu için yardımcı oluyor musunuz?"}, {"role": "assistant", "content": "Kesinlikle! Unutulmaz bir evlilik teklifi organizasyonu için size özel süslemeler ve ortam hazırlığı konusunda destek olabiliriz. Detaylar için iletişime geçmenizi rica ederiz."}]}
+{"messages": [{"role": "user", "content": "Özel bir kutlama için mekanı süsleyebilir miyiz?"}, {"role": "assistant", "content": "Evet, özel kutlamalarınız için bungalovu sizin adınıza süsleyebiliriz. Konsept ve detayları konuşmak için bizimle iletişime geçebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Balayı çiftleri için özel süslemeleriniz var mı?"}, {"role": "assistant", "content": "Evet, balayı çiftlerimiz için romantik oda süslemeleri ve küçük hoş geldin ikramları sunmaktayız. Rezervasyon yaparken bu talebinizi iletmeniz yeterlidir."}]}
+{"messages": [{"role": "user", "content": "Yıldönümü kutlaması için süsleme yapıyor musunuz?"}, {"role": "assistant", "content": "Evet, yıldönümü gibi özel anlar için istediğiniz tarzda süsleme ve ambiyans hazırlığı yapabiliriz."}]}
+{"messages": [{"role": "user", "content": "Hangi tür süslemeler yapıyorsunuz?"}, {"role": "assistant", "content": "Genellikle balonlar, taze veya yapay çiçekler, romantik ışıklandırmalar ve özel mesajlarla süslemeler yapmaktayız. İsteklerinize göre farklı konseptler de oluşturabiliriz."}]}
+{"messages": [{"role": "user", "content": "Süsleme hizmeti ek ücrete tabi mi?"}, {"role": "assistant", "content": "Evet, süsleme hizmetleri genellikle ek ücrete tabidir. Süslemenin kapsamına göre fiyatlandırma değişmektedir. Detaylı bilgi için lütfen bizimle iletişime geçin."}]}
+{"messages": [{"role": "user", "content": "Kendi süslemelerimizi getirebilir miyiz?"}, {"role": "assistant", "content": "Evet, kendi süslemelerinizi getirebilirsiniz. Kurulum konusunda yardıma ihtiyacınız olursa ekibimiz size destek olabilir."}]}
+{"messages": [{"role": "user", "content": "Süsleme için ne kadar önceden haber vermeliyiz?"}, {"role": "assistant", "content": "Süsleme taleplerinizi en az 2 gün önceden bildirmenizi rica ederiz. Böylece size özel hazırlıklarımızı daha iyi yapabiliriz."}]}
+{"messages": [{"role": "user", "content": "Özel bir konsept oluşturabilir misiniz?"}, {"role": "assistant", "content": "Evet, sizin için özel bir konsept tasarlayabiliriz. İsteklerinizi dinleyip size özel bir atmosfer yaratmaktan memnuniyet duyarız."}]}
+{"messages": [{"role": "user", "content": "Oda süsleme hizmetiniz var mı?"}, {"role": "assistant", "content": "Evet, konaklamanız sırasında odanızı özel bir tema veya kutlama için süsleyebiliriz."}]}
+{"messages": [{"role": "user", "content": "Kutlama yapmak istiyoruz, yardımcı olabilir misiniz?"}, {"role": "assistant", "content": "Elbette, kutlamalarınız için size özel bir ortam ve süsleme hazırlığı yapabiliriz. Taleplerinizi bekliyoruz."}]}
+{"messages": [{"role": "user", "content": "Sürpriz organizasyonlar için destek oluyor musunuz?"}, {"role": "assistant", "content": "Evet, sevdiklerinize sürpriz yapmak isteyen misafirlerimize organizasyon ve süsleme konusunda tam destek olmaktayız."}]}
+{"messages": [{"role": "user", "content": "Misafirlerimizin özel günü için hazırlık yapıyor musunuz?"}, {"role": "assistant", "content": "Evet, misafirlerimizin özel günlerini daha unutulmaz kılmak için süsleme ve organizasyon hizmetleri sunuyoruz."}]}
+{"messages": [{"role": "user", "content": "Instruction:Merhaba"}, {"role": "assistant", "content": "Merhaba Asteria Doğa Bungalov Chatbot ile görüşüyorsunuz. Size nasıl yardımcı olabilirim?."}]}
+{"messages": [{"role": "user", "content": "Merhaba, size nasıl ulaşabilirim?"}, {"role": "assistant", "content": "Merhaba! Asteria Doğa Bungalov Chatbot ile görüşüyorsunuz. Size nasıl yardımcı olabilirim?"}]}
+{"messages": [{"role": "user", "content": "İyi günler"}, {"role": "assistant", "content": "İyi günler! Asteria Doğa Bungalov'a hoş geldiniz. Konaklamamız hakkında bilgi almak için buradayım."}]}
+{"messages": [{"role": "user", "content": "Selamlar"}, {"role": "assistant", "content": "Selamlar! Asteria Doğa Bungalov Chatbot ile konuşuyorsunuz. Size nasıl yardımcı olabilirim?"}]}
+{"messages": [{"role": "user", "content": "Bungalovunuzun özelliklerini öğrenebilir miyim?"}, {"role": "assistant", "content": "Elbette! Bungalovumuzda jakuzi, doğa manzarası, açık büfe kahvaltı, Android TV (Netflix, YouTube), Amerikan mutfak ve Wi-Fi gibi olanaklar sunulmaktadır."}]}
+{"messages": [{"role": "user", "content": "Hangi kolaylıkları sunuyorsunuz?"}, {"role": "assistant", "content": "Misafirlerimize konforlu bir deneyim sunmak adına jakuzi, kahvaltı, Android TV, doğa manzarası, klima ve ücretsiz Wi-Fi gibi birçok olanak sunmaktayız."}]}
+{"messages": [{"role": "user", "content": "Bungalovda hangi imkanlar mevcut?"}, {"role": "assistant", "content": "Bungalovumuzda sabah kahvaltısı, jakuzi, klima, doğa manzarası, Amerikan mutfak, Android TV ve Wi-Fi gibi birçok imkan bulunmaktadır."}]}
+{"messages": [{"role": "user", "content": "Hangi hizmetleri veriyorsunuz?"}, {"role": "assistant", "content": "Bungalovumuzda jakuzi, doğa manzarası, açık büfe kahvaltı, Android TV (Netflix, YouTube), Amerikan mutfak ve Wi-Fi gibi olanaklar sunulmaktadır."}]}
+{"messages": [{"role": "user", "content": "Tesiste neler bulunuyor?"}, {"role": "assistant", "content": "Konaklama birimimizde jakuzi, doğa manzarası, klima, açık büfe kahvaltı, Amerikan mutfak ve Netflix gibi birçok olanak mevcuttur."}]}
+{"messages": [{"role": "user", "content": "Ne tür olanaklar var?"}, {"role": "assistant", "content": "Bungalovumuzda jakuzi, doğa manzarası, açık büfe kahvaltı, Android TV (Netflix, YouTube), Amerikan mutfak ve Wi-Fi gibi olanaklar sunulmaktadır."}]}
+{"messages": [{"role": "user", "content": "Tesisinizde hangi konforlar var?"}, {"role": "assistant", "content": "Misafirlerimize konforlu bir deneyim sunmak adına jakuzi, kahvaltı, Android TV, doğa manzarası, klima ve ücretsiz Wi-Fi gibi birçok olanak sunmaktayız."}]}
+{"messages": [{"role": "user", "content": "Konaklama hakkında genel bilgi alabilir miyim?"}, {"role": "assistant", "content": "Elbette! Bungalovumuz Giresun-Keşap otoyolu kenarında yer almakta olup, sabah kahvaltısı, jakuzi, doğa manzarası ve birçok konforlu detay ile hizmet vermektedir. Dilerseniz daha spesifik sorularınızı da memnuniyetle yanıtlayabilirim."}]}
+{"messages": [{"role": "user", "content": "Tesisiniz hakkında temel bilgileri öğrenebilir miyim?"}, {"role": "assistant", "content": "Elbette! Bungalovumuz Giresun-Keşap otoyolu kenarında yer almakta olup, sabah kahvaltısı, jakuzi, doğa manzarası ve birçok konforlu detay ile hizmet vermektedir. Dilerseniz daha spesifik sorularınızı da memnuniyetle yanıtlayabilirim."}]}
+{"messages": [{"role": "user", "content": "Bungalovunuz hakkında ne söyleyebilirsiniz?"}, {"role": "assistant", "content": "Elbette! Bungalovumuz Giresun-Keşap otoyolu kenarında yer almakta olup, sabah kahvaltısı, jakuzi, doğa manzarası ve birçok konforlu detay ile hizmet vermektedir. Dilerseniz daha spesifik sorularınızı da memnuniyetle yanıtlayabilirim."}]}
+{"messages": [{"role": "user", "content": "Konaklama seçenekleriniz neler?"}, {"role": "assistant", "content": "Memnuniyetle. Bungalovumuz Giresun merkeze 5 dakika mesafede yer almaktadır. Jakuzili, manzaralı, kahvaltı dahil, çift kişilik konaklamalara uygun bir ortam sunmaktayız."}]}
+{"messages": [{"role": "user", "content": "Ne tür konaklama sunuyorsunuz?"}, {"role": "assistant", "content": "Memnuniyetle. Bungalovumuz Giresun merkeze 5 dakika mesafede yer almaktadır. Jakuzili, manzaralı, kahvaltı dahil, çift kişilik konaklamalara uygun bir ortam sunmaktayız."}]}
+{"messages": [{"role": "user", "content": "Nasıl bir konaklama deneyimi yaşayacağız?"}, {"role": "assistant", "content": "Memnuniyetle. Bungalovumuz Giresun merkeze 5 dakika mesafede yer almaktadır. Jakuzili, manzaralı, kahvaltı dahil, çift kişilik konaklamalara uygun bir ortam sunmaktayız."}]}
+{"messages": [{"role": "user", "content": "Odanız nasıl bir oda?"}, {"role": "assistant", "content": "Elbette. Konaklamamız çift kişilik olup, sabahları açık büfe kahvaltı dahildir. Doğa manzaralı, jakuzili, Amerikan mutfaklı ve Android TV özellikli bir bungalovdur."}]}
+{"messages": [{"role": "user", "content": "Bungalov nasıl döşenmiş?"}, {"role": "assistant", "content": "Elbette. Konaklamamız çift kişilik olup, sabahları açık büfe kahvaltı dahildir. Doğa manzaralı, jakuzili, Amerikan mutfaklı ve Android TV özellikli bir bungalovdur."}]}
+{"messages": [{"role": "user", "content": "Odanızın içinde neler var?"}, {"role": "assistant", "content": "Elbette. Konaklamamız çift kişilik olup, sabahları açık büfe kahvaltı dahildir. Doğa manzaralı, jakuzili, Amerikan mutfaklı ve Android TV özellikli bir bungalovdur."}]}
+{"messages": [{"role": "user", "content": "Tesisin tam donanımı nedir?"}, {"role": "assistant", "content": "Bungalovumuz Giresun-Keşap otoyolu kenarında konumlanmıştır. Sabah açık büfe kahvaltı, jakuzi, doğa manzarası, Amerikan mutfak, Android TV (Netflix, YouTube) gibi birçok konforlu özelliğe sahiptir."}]}
+{"messages": [{"role": "user", "content": "Bungalovunuzun tüm özelliklerini öğrenebilir miyim?"}, {"role": "assistant", "content": "Bungalovumuz Giresun-Keşap otoyolu kenarında konumlanmıştır. Sabah açık büfe kahvaltı, jakuzi, doğa manzarası, Amerikan mutfak, Android TV (Netflix, YouTube) gibi birçok konforlu özelliğe sahiptir."}]}
+{"messages": [{"role": "user", "content": "Tesisinizdeki her şeyi öğrenmek istiyorum."}, {"role": "assistant", "content": "Bungalovumuz Giresun-Keşap otoyolu kenarında konumlanmıştır. Sabah açık büfe kahvaltı, jakuzi, doğa manzarası, Amerikan mutfak, Android TV (Netflix, YouTube) gibi birçok konforlu özelliğe sahiptir."}]}
+{"messages": [{"role": "user", "content": "Wireless internet var mı?"}, {"role": "assistant", "content": "Evet, ücretsiz Wi-Fi bulunmaktadır."}]}
+{"messages": [{"role": "user", "content": "İnternet erişimi mevcut mu?"}, {"role": "assistant", "content": "Evet, ücretsiz Wi-Fi bulunmaktadır."}]}
+{"messages": [{"role": "user", "content": "Kablosuz internet bağlantısı var mı?"}, {"role": "assistant", "content": "Evet, ücretsiz Wi-Fi bulunmaktadır."}]}
+{"messages": [{"role": "user", "content": "Online çalışabilir miyim?"}, {"role": "assistant", "content": "Evet, ücretsiz Wi-Fi bulunmaktadır ve rahatça online çalışabilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Pet friendly misiniz?"}, {"role": "assistant", "content": "Evet, evcil hayvan kabul edilmektedir."}]}
+{"messages": [{"role": "user", "content": "Köpeğimle gelebilir miyim?"}, {"role": "assistant", "content": "Evet, evcil hayvan kabul edilmektedir."}]}
+{"messages": [{"role": "user", "content": "Kedimizi getirebilir miyiz?"}, {"role": "assistant", "content": "Evet, evcil hayvan kabul edilmektedir."}]}
+{"messages": [{"role": "user", "content": "Evcil dostlarımız için uygun musunuz?"}, {"role": "assistant", "content": "Evet, evcil hayvan kabul edilmektedir."}]}
+{"messages": [{"role": "user", "content": "Sabah yemeği ne zaman servis ediliyor?"}, {"role": "assistant", "content": "Sabah 08:00 - 10:30 arasıdır."}]}
+{"messages": [{"role": "user", "content": "Kahvaltı servisi saat kaçta başlıyor?"}, {"role": "assistant", "content": "Sabah 08:00 - 10:30 arasıdır."}]}
+{"messages": [{"role": "user", "content": "En geç saat kaçta kahvaltı edebiliriz?"}, {"role": "assistant", "content": "Sabah 08:00 - 10:30 arasıdır."}]}
+{"messages": [{"role": "user", "content": "Kahvaltı için ekstra ücret var mı?"}, {"role": "assistant", "content": "Açık büfe kahvaltı ikramımızdır. Fiyata dahildir."}]}
+{"messages": [{"role": "user", "content": "Kahvaltı ücretsiz mi?"}, {"role": "assistant", "content": "Açık büfe kahvaltı ikramımızdır. Fiyata dahildir."}]}
+{"messages": [{"role": "user", "content": "Sabah yemeği bedava mı?"}, {"role": "assistant", "content": "Açık büfe kahvaltı ikramımızdır. Fiyata dahildir."}]}
+{"messages": [{"role": "user", "content": "Büfe usulü kahvaltı var mı?"}, {"role": "assistant", "content": "Evet, sabahları açık büfe kahvaltı servisimiz bulunmaktadır."}]}
+{"messages": [{"role": "user", "content": "Kahvaltıda çeşit bol mu?"}, {"role": "assistant", "content": "Evet, sabahları açık büfe kahvaltı servisimiz bulunmaktadır."}]}
+{"messages": [{"role": "user", "content": "Self servis kahvaltı mı?"}, {"role": "assistant", "content": "Evet, sabahları açık büfe kahvaltı servisimiz bulunmaktadır."}]}
+{"messages": [{"role": "user", "content": "Hangi bölgedesiniz?"}, {"role": "assistant", "content": "Giresun-Keşap otoyol kenarında, Giresun Merkeze 5 dakika mesafededir."}]}
+{"messages": [{"role": "user", "content": "Adresiniz nedir?"}, {"role": "assistant", "content": "Giresun-Keşap otoyol kenarında, Giresun Merkeze 5 dakika mesafededir."}]}
+{"messages": [{"role": "user", "content": "Şehir merkezine ne kadar uzakta?"}, {"role": "assistant", "content": "Giresun-Keşap otoyol kenarında, Giresun Merkeze 5 dakika mesafededir."}]}
+{"messages": [{"role": "user", "content": "Lokasyonunuz neresi?"}, {"role": "assistant", "content": "Bungalovumuz Giresun-Keşap otoyolu kenarında yer almakta olup, Giresun merkeze 5 dakika uzaklıktadır."}]}
+{"messages": [{"role": "user", "content": "Konumunuzu tarif edebilir misiniz?"}, {"role": "assistant", "content": "Bungalovumuz Giresun-Keşap otoyolu kenarında yer almakta olup, Giresun merkeze 5 dakika uzaklıktadır."}]}
+{"messages": [{"role": "user", "content": "Nasıl bulabiliriz sizi?"}, {"role": "assistant", "content": "Giresun-Keşap otoyol kenarında olduğumuz için ulaşım oldukça kolaydır."}]}
+{"messages": [{"role": "user", "content": "Spa imkanınız var mı?"}, {"role": "assistant", "content": "Ekstra servisler için bizimle iletişime geçebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Sıcak su jakuzisi mevcut mu?"}, {"role": "assistant", "content": "Evet, jakuzili bungalovumuzda keyifli vakit geçirebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Televizyonda Netflix açık mı?"}, {"role": "assistant", "content": "Evet, Android TV ile dilediğiniz gibi erişebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "YouTube izleyebilir miyim?"}, {"role": "assistant", "content": "Evet, Android TV ile dilediğiniz gibi erişebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Smart TV var mı?"}, {"role": "assistant", "content": "Evet, Android TV ile dilediğiniz gibi erişebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Dijital platformlara erişim var mı?"}, {"role": "assistant", "content": "Evet, Android TV ile dilediğiniz gibi erişebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Check-in ve check-out saatleri?"}, {"role": "assistant", "content": "Giriş saati 14:30, çıkış saati ise 13:00'tür."}]}
+{"messages": [{"role": "user", "content": "Ne zaman giriş ne zaman çıkış?"}, {"role": "assistant", "content": "Giriş saati 14:30, çıkış saati ise 13:00'tür."}]}
+{"messages": [{"role": "user", "content": "Check-in saati nedir?"}, {"role": "assistant", "content": "Giriş saati 14:30'dur."}]}
+{"messages": [{"role": "user", "content": "Ne zaman odaya yerleşebiliriz?"}, {"role": "assistant", "content": "Girişler saat 14:30 itibarıyla yapılmaktadır."}]}
+{"messages": [{"role": "user", "content": "Odaya giriş saati?"}, {"role": "assistant", "content": "Girişler saat 14:30 itibarıyla yapılmaktadır."}]}
+{"messages": [{"role": "user", "content": "Check-out saati nedir?"}, {"role": "assistant", "content": "Çıkış saati 13:00'dır."}]}
+{"messages": [{"role": "user", "content": "Ne zaman odayı boşaltmalıyız?"}, {"role": "assistant", "content": "Çıkış işlemleri en geç 13:00'da tamamlanmalıdır."}]}
+{"messages": [{"role": "user", "content": "Son çıkış saati?"}, {"role": "assistant", "content": "Çıkış işlemleri en geç 13:00'da tamamlanmalıdır."}]}
+{"messages": [{"role": "user", "content": "Araç park edebilir miyiz?"}, {"role": "assistant", "content": "Arabanızı çekebilmeniz için alanımız mevcuttur."}]}
+{"messages": [{"role": "user", "content": "Araç park yeri mevcut mu?"}, {"role": "assistant", "content": "Arabanızı çekebilmeniz için alanımız mevcuttur."}]}
+{"messages": [{"role": "user", "content": "Otomobil park alanı var mı?"}, {"role": "assistant", "content": "Arabanızı çekebilmeniz için alanımız mevcuttur."}]}
+{"messages": [{"role": "user", "content": "Kapasitesi kaç kişi?"}, {"role": "assistant", "content": "İki kişilik konaklamalar için uygundur"}]}
+{"messages": [{"role": "user", "content": "En fazla kaç kişi kalabilir?"}, {"role": "assistant", "content": "İki kişilik konaklamalar için uygundur"}]}
+{"messages": [{"role": "user", "content": "Kişi kapasitesi nedir?"}, {"role": "assistant", "content": "İki kişilik konaklamalar için uygundur"}]}
+{"messages": [{"role": "user", "content": "İki kişiden fazla kalabilir miyiz?"}, {"role": "assistant", "content": "İki kişilik konaklamalar için uygundur"}]}
+{"messages": [{"role": "user", "content": "Ocak var mı?"}, {"role": "assistant", "content": "Amerikan tipi mutfağımız ve Barbekü için taş ocağımız mevcuttur."}]}
+{"messages": [{"role": "user", "content": "Yemek yapabilir miyiz?"}, {"role": "assistant", "content": "Amerikan tipi mutfağımız ve Barbekü için için taş ocağımız mevcuttur."}]}
+{"messages": [{"role": "user", "content": "Mutfak dolabı var mı?"}, {"role": "assistant", "content": "Evet, Amerikan tipi mutfağımız mevcuttur."}]}
+{"messages": [{"role": "user", "content": "Açık mutfak mı?"}, {"role": "assistant", "content": "Evet, Amerikan tipi mutfağımız mevcuttur."}]}
+{"messages": [{"role": "user", "content": "Ücretlendirme nasıl?"}, {"role": "assistant", "content": "Fiyatlarımız sezona, haftaiçi/haftasonu durumuna göre değişir. Güncel fiyat için lütfen bizimle iletişime geçin."}]}
+{"messages": [{"role": "user", "content": "Fiyat hesaplaması nasıl yapılıyor?"}, {"role": "assistant", "content": "Fiyatlarımız sezona, haftaiçi/haftasonu durumuna göre değişir. Güncel fiyat için lütfen bizimle iletişime geçin."}]}
+{"messages": [{"role": "user", "content": "Fiyat nedir?"}, {"role": "assistant", "content": "Fiyatlarımız sezona, haftaiçi/haftasonu durumuna göre değişir. Güncel fiyat için lütfen bizimle iletişime geçin."}]}
+{"messages": [{"role": "user", "content": "Ücret nedir?"}, {"role": "assistant", "content": "Fiyatlarımız sezona, haftaiçi/haftasonu durumuna göre değişir. Güncel fiyat için lütfen bizimle iletişime geçin."}]}
+{"messages": [{"role": "user", "content": "En kısa konaklama süresi?"}, {"role": "assistant", "content": "Minimum 1 gece konaklama yapılabilir."}]}
+{"messages": [{"role": "user", "content": "Tek gece kalabilir miyiz?"}, {"role": "assistant", "content": "Minimum 1 gece konaklama yapılabilir."}]}
+{"messages": [{"role": "user", "content": "Günübirlik konaklama mümkün mü?"}, {"role": "assistant", "content": "Minimum 1 gece konaklama yapılabilir."}]}
+{"messages": [{"role": "user", "content": "Sahile ne kadar uzaksınız?"}, {"role": "assistant", "content": "Evet, sahile oldukça yakın bir konumda bulunuyoruz."}]}
+{"messages": [{"role": "user", "content": "Alışveriş merkezi yakında var mı?"}, {"role": "assistant", "content": "Evet, 5 dakikalık mesafede market bulunmaktadır."}]}
+{"messages": [{"role": "user", "content": "Süpermarket uzakta mı?"}, {"role": "assistant", "content": "Evet, 5 dakikalık mesafede market bulunmaktadır."}]}
+{"messages": [{"role": "user", "content": "Temel ihtiyaçları nereden karşılayabiliriz?"}, {"role": "assistant", "content": "Evet, 5 dakikalık mesafede market bulunmaktadır."}]}
+{"messages": [{"role": "user", "content": "Aile dostu musunuz?"}, {"role": "assistant", "content": "Evet, çocuklu ailelere uygundur. Geniş bahçe alanımız çocukların güvenle oynayabileceği bir ortam sunar."}]}
+{"messages": [{"role": "user", "content": "Çocuk dostu mu?"}, {"role": "assistant", "content": "Evet, çocuklu ailelere uygundur. Geniş bahçe alanımız çocukların güvenle oynayabileceği bir ortam sunar."}]}
+{"messages": [{"role": "user", "content": "Küçük çocuklarla gelebilir miyiz?"}, {"role": "assistant", "content": "Evet, çocuklu ailelere uygundur. Geniş bahçe alanımız çocukların güvenle oynayabileceği bir ortam sunar."}]}
+{"messages": [{"role": "user", "content": "Çocuk oyun alanı var mı?"}, {"role": "assistant", "content": "Evet, çocuklu ailelere uygundur. Geniş bahçe alanımız çocukların güvenle oynayabileceği bir ortam sunar."}]}
+{"messages": [{"role": "user", "content": "Yeni evliler için ideal mi?"}, {"role": "assistant", "content": "Evet, jakuzili ve manzaralı yapısıyla balayı çiftleri için uygundur."}]}
+{"messages": [{"role": "user", "content": "Romantik tatil için uygun mu?"}, {"role": "assistant", "content": "Evet, jakuzili ve manzaralı yapısıyla balayı çiftleri için uygundur."}]}
+{"messages": [{"role": "user", "content": "Çiftler için ideal mi?"}, {"role": "assistant", "content": "Evet, jakuzili ve manzaralı yapısıyla balayı çiftleri için uygundur."}]}
+{"messages": [{"role": "user", "content": "Sağlık kurallarına uyuyor musunuz?"}, {"role": "assistant", "content": "Evet, her konaklamadan sonra detaylı temizlik yapılmaktadır. Hijyen önceliğimizdir."}]}
+{"messages": [{"role": "user", "content": "Temizlik standartlarınız nasıl?"}, {"role": "assistant", "content": "Her misafir sonrası detaylı temizlik yapılmaktadır. Hijyen önceliğimizdir."}]}
+{"messages": [{"role": "user", "content": "Dezenfeksiyon yapılıyor mu?"}, {"role": "assistant", "content": "Her misafir sonrası detaylı temizlik yapılmaktadır. Hijyen önceliğimizdir."}]}
+{"messages": [{"role": "user", "content": "Temizlik ne sıklıkta yapılıyor?"}, {"role": "assistant", "content": "Her misafir sonrası detaylı temizlik yapılmaktadır. Hijyen önceliğimizdir."}]}
+{"messages": [{"role": "user", "content": "İç mekanlarda sigara içilebilir mi?"}, {"role": "assistant", "content": "Kapalı alanlarda sigara içmek yasaktır, açık alanda içilebilir."}]}
+{"messages": [{"role": "user", "content": "Sigara içenler için alan var mı?"}, {"role": "assistant", "content": "Kapalı alanlarda sigara içmek yasaktır, açık alanda içilebilir."}]}
+{"messages": [{"role": "user", "content": "Huzurlu bir ortam mı?"}, {"role": "assistant", "content": "Evet, doğa ile iç içe, sessiz ve sakin bir ortam sunuyoruz."}]}
+{"messages": [{"role": "user", "content": "Gürültü var mı?"}, {"role": "assistant", "content": "Evet, doğa ile iç içe, sessiz ve sakin bir ortam sunuyoruz."}]}
+{"messages": [{"role": "user", "content": "Sakin bir yer mi?"}, {"role": "assistant", "content": "Evet, doğa ile iç içe, sessiz ve sakin bir ortam sunuyoruz."}]}
+{"messages": [{"role": "user", "content": "Dinlendirici bir ortam mı?"}, {"role": "assistant", "content": "Evet, doğa ile iç içe, sessiz ve sakin bir ortam sunuyoruz."}]}
+{"messages": [{"role": "user", "content": "Soğutma sistemi var mı?"}, {"role": "assistant", "content": "Evet, bungalovda klima mevcuttur."}]}
+{"messages": [{"role": "user", "content": "Sıcaklarda rahat edebilir miyiz?"}, {"role": "assistant", "content": "Evet, bungalovda klima mevcuttur."}]}
+{"messages": [{"role": "user", "content": "İklimlendirme var mı?"}, {"role": "assistant", "content": "Evet, bungalovda klima mevcuttur."}]}
+{"messages": [{"role": "user", "content": "Netflix ücretsiz mi?"}, {"role": "assistant", "content": "Netflix üyeliğimiz ücretsiz olarak sunulmaktadır."}]}
+{"messages": [{"role": "user", "content": "TV aboneliği var mı?"}, {"role": "assistant", "content": "Netflix üyeliğimiz ücretsiz olarak sunulmaktadır."}]}
+{"messages": [{"role": "user", "content": "Digital platformlar ücretsiz mi?"}, {"role": "assistant", "content": "Netflix üyeliğimiz ücretsiz olarak sunulmaktadır."}]}
+{"messages": [{"role": "user", "content": "Park ücreti var mı?"}, {"role": "assistant", "content": "Otopark ücretsizdir. Tesisimize gelen misafirler arabalarını ücretsiz olarak park edebilir."}]}
+{"messages": [{"role": "user", "content": "Araç park etmek ücretli mi?"}, {"role": "assistant", "content": "Otopark ücretsizdir. Tesisimize gelen misafirler arabalarını ücretsiz olarak park edebilir."}]}
+{"messages": [{"role": "user", "content": "Hangi özel günler için organizasyon hizmeti veriyorsunuz?"}, {"role": "assistant", "content": "Doğum günleri, yıldönümleri, evlilik teklifleri, balayı kutlamaları, nişan kutlamaları ve diğer tüm özel anlarınız için organizasyon hizmeti sunuyoruz. Detaylı bilgi için bizimle iletişime geçebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Özel gün organizasyonunuz neleri kapsıyor?"}, {"role": "assistant", "content": "Organizasyon hizmetimiz süsleme, ambiyans hazırlığı, özel ışıklandırma, masa düzeni ve küçük ikramları kapsamaktadır. Her özel günün kendine özgü ihtiyaçlarına göre planlamalar yapıyoruz. Detaylı bilgi için bizimle iletişime geçebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Organizasyon hizmetiniz hakkında daha fazla bilgi alabilir miyim?"}, {"role": "assistant", "content": "Evet, özel günleriniz için kapsamlı organizasyon hizmeti sunuyoruz. Süsleme, dekorasyon, ambiyans ve kişiye özel düzenlemeler yapabiliyoruz. Detaylı bilgi için bizimle iletişime geçebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Özel gün paketi var mı?"}, {"role": "assistant", "content": "Evet, farklı özel günler için hazırlanmış paketlerimiz bulunmaktadır. Her paket kendine özgü süsleme ve hizmetleri içerir. Detaylı bilgi için bizimle iletişime geçebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Sürpriz parti organize edebilir misiniz?"}, {"role": "assistant", "content": "Kesinlikle! Sürpriz partiler için gizli hazırlıklar yapıyor ve tam zamanında süsleme ile ambiyansı hazırlıyoruz. Detaylı bilgi için bizimle iletişime geçebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Özel gün organizasyonu ne kadar önceden planlanmalı?"}, {"role": "assistant", "content": "Özel gün organizasyonlarımızı en az 3-5 gün önceden planlamanızı öneriyoruz. Böylece size özel en iyi hazırlıkları yapabiliriz. Detaylı bilgi için bizimle iletişime geçebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Doğum günü organizasyonu yapıyor musunuz?"}, {"role": "assistant", "content": "Evet, doğum günü kutlamaları için özel organizasyon hizmeti sunuyoruz. Süsleme, ambiyans ve kişiye özel düzenlemeler yapabiliyoruz. Detaylı bilgi için bizimle iletişime geçebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Özel günümüz için süsleme ve organizasyon hizmeti var mı?"}, {"role": "assistant", "content": "Evet, özel günleriniz için kapsamlı organizasyon ve süsleme hizmetleri sunuyoruz. Her türlü kutlama için size özel hazırlık yapabiliriz. Detaylı bilgi için bizimle iletişime geçebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Yıldönümümüzü kutlamak istiyoruz, yardımcı olur musunuz?"}, {"role": "assistant", "content": "Tabii ki! Yıldönümü kutlamalarınız için romantik süslemeler ve özel ambiyans hazırlığı yapabiliriz. Detaylı bilgi için bizimle iletişime geçebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Evlenme teklifim var, bana yardım edebilir misiniz?"}, {"role": "assistant", "content": "Kesinlikle! Unutulmaz bir evlilik teklifi organizasyonu için size özel süslemeler ve ortam hazırlığı konusunda destek olabiliriz. Detaylı bilgi için bizimle iletişime geçebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Sürpriz organizasyon yapabilir misiniz?"}, {"role": "assistant", "content": "Evet, sevdiklerinize sürpriz yapmak isteyen misafirlerimize organizasyon ve süsleme konusunda tam destek olmaktayız. Detaylı bilgi için bizimle iletişime geçebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Romantik bir akşam organize edebilir misiniz?"}, {"role": "assistant", "content": "Elbette! Romantik akşamlar için özel ışıklandırma, süsleme ve ambiyans hazırlığı yapabiliyoruz. Detaylı bilgi için bizimle iletişime geçebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Özel günümüz için ne tür süslemeler yapıyorsunuz?"}, {"role": "assistant", "content": "Genellikle balonlar, taze veya yapay çiçekler, romantik ışıklandırmalar ve özel mesajlarla süslemeler yapmaktayız. İsteklerinize göre farklı konseptler de oluşturabiliriz. Detaylı bilgi için bizimle iletişime geçebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Organizasyon paketleriniz neler?"}, {"role": "assistant", "content": "Farklı özel günler için hazırlanmış paketlerimiz bulunmaktadır. Her paket kendine özgü süsleme ve hizmetleri içerir. Detaylı bilgi için bizimle iletişime geçebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Kutlama için oda süslemesi yapıyor musunuz?"}, {"role": "assistant", "content": "Evet, konaklamanız sırasında odanızı özel bir tema veya kutlama için süsleyebiliriz. Detaylı bilgi için bizimle iletişime geçebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Organizasyon hizmetiniz neleri kapsıyor?"}, {"role": "assistant", "content": "Organizasyon hizmetimiz süsleme, ambiyans hazırlığı, özel ışıklandırma, masa düzeni ve küçük ikramları kapsamaktadır. Her özel günün kendine özgü ihtiyaçlarına göre planlamalar yapıyoruz. Detaylı bilgi için bizimle iletişime geçebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Özel gün organizasyonu için ne kadar süre önceden haber vermeliyim?"}, {"role": "assistant", "content": "Organizasyon taleplerinizi en az 3-5 gün önceden bildirmenizi rica ederiz. Böylece size özel en iyi hazırlıkları yapabiliriz. Detaylı bilgi için bizimle iletişime geçebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Özel konsept oluşturabiliyor musunuz?"}, {"role": "assistant", "content": "Evet, sizin için özel bir konsept tasarlayabiliriz. İsteklerinizi dinleyip size özel bir atmosfer yaratmaktan memnuniyet duyarız. Detaylı bilgi için bizimle iletişime geçebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Nişan organizasyonu yapıyor musunuz?"}, {"role": "assistant", "content": "Evet, nişan kutlamaları için özel organizasyon ve süsleme hizmetleri sunuyoruz. Unutulmaz bir gün geçirmeniz için size özel hazırlık yapabiliriz. Detaylı bilgi için bizimle iletişime geçebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Organizasyon ücreti ne kadar?"}, {"role": "assistant", "content": "Organizasyon hizmetleri genellikle ek ücrete tabidir. Süslemenin kapsamına göre fiyatlandırma değişmektedir. Detaylı bilgi için bizimle iletişime geçebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Özel günümüz için masa süslemesi yapıyor musunuz?"}, {"role": "assistant", "content": "Evet, özel günleriniz için masa düzeni ve süsleme hizmetleri sunuyoruz. İstediğiniz konseptte hazırladığımız masalarla unutulmaz anlar yaşayabilirsiniz. Detaylı bilgi için bizimle iletişime geçebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Kutlama organizasyonu hakkında bilgi alabilir miyim?"}, {"role": "assistant", "content": "Elbette! Tüm özel günleriniz için kapsamlı organizasyon hizmetleri sunuyoruz. Süsleme, dekorasyon ve ambiyans konusunda size destek olabiliriz. Detaylı bilgi için bizimle iletişime geçebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Mangal yapabilir miyiz?"}, {"role": "assistant", "content": "Evet, tesisimizde mangal/barbekü için özel alan mevcuttur. Misafirlerimiz açık hava keyfini çıkarabilir ve mangal yapabilirler."}]}
+{"messages": [{"role": "user", "content": "Barbekü alanınız var mı?"}, {"role": "assistant", "content": "Evet, tesisimizde mangal/barbekü yapmak için özel alan bulunmaktadır. Doğayla iç içe mangal keyfi yaşayabilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Mangal malzemeleri sağlıyor musunuz?"}, {"role": "assistant", "content": "Mangal alanımız mevcuttur, ancak kömür ve yiyecek malzemelerini misafirlerimizin getirmesi gerekmektedir."}]}
+{"messages": [{"role": "user", "content": "Mangal için kömür var mı?"}, {"role": "assistant", "content": "Mangal alanımız hazırdır, kömür ve mangal malzemelerini misafirlerimizin temin etmesi gerekmektedir."}]}
+{"messages": [{"role": "user", "content": "Mangal yaparken herhangi bir kısıtlama var mı?"}, {"role": "assistant", "content": "Mangal yaparken güvenlik kurallarına uymanızı ve yangın riski oluşturmamaya dikkat etmenizi rica ederiz. Belirtilen mangal alanını kullanmanız gerekmektedir."}]}
+{"messages": [{"role": "user", "content": "Barbekü için alet-edavat sağlıyor musunuz?"}, {"role": "assistant", "content": "Özel mangal alanı mevcuttur. Barbekü için gerekli alet-edavatları misafirlerimizin getirmesi önerilir."}]}
+{"messages": [{"role": "user", "content": "Mangal yapabilir miyiz?"}, {"role": "assistant", "content": "Evet, tesisimizde mangal/barbekü imkanı mevcuttur. Misafirlerimiz açık hava keyfini çıkarabilir ve mangal yapabilirler."}]}
+{"messages": [{"role": "user", "content": "Barbekü yapma imkanı var mı?"}, {"role": "assistant", "content": "Evet, tesisimizde mangal/barbekü yapmak için özel alan bulunmaktadır. Doğayla iç içe mangal keyfi yaşayabilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Mangal alanınız var mı?"}, {"role": "assistant", "content": "Evet, tesisimizde mangal/barbekü yapmak için özel olarak ayrılmış alan mevcuttur."}]}
+{"messages": [{"role": "user", "content": "Barbekü alanı nerede?"}, {"role": "assistant", "content": "Tesisimizde mangal/barbekü için belirlenen özel alanımız bulunmaktadır. Doğayla iç içe keyifli vakit geçirebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Mangal yapmak için kömür sağlıyor musunuz?"}, {"role": "assistant", "content": "Mangal alanımız mevcuttur, ancak kömür ve yiyecek malzemelerini misafirlerimizin getirmesi gerekmektedir."}]}
+{"messages": [{"role": "user", "content": "Mangal kömürü var mı?"}, {"role": "assistant", "content": "Mangal alanımız hazırdır, kömür ve mangal malzemelerini misafirlerimizin temin etmesi gerekmektedir."}]}
+{"messages": [{"role": "user", "content": "Barbekü için malzeme sağlıyor musunuz?"}, {"role": "assistant", "content": "Özel Mangal alanı mevcuttur, fakat et, kömür ve diğer malzemeleri misafirlerimizin getirmesi gerekmektedir."}]}
+{"messages": [{"role": "user", "content": "Barbekü yapabilir miyiz?"}, {"role": "assistant", "content": "Evet, tesisimizde mangal/barbekü imkanı bulunmaktadır. Açık havada keyifli vakit geçirebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Mangal malzemelerini nereden alabiliriz?"}, {"role": "assistant", "content": "Yakın çevredeki market ve kasaplar hakkında yol tarifi verebiliriz. Mangal ihtiyaçlarınızı buralardan karşılayabilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Mangal yaparken dikkat etmemiz gereken şeyler var mı?"}, {"role": "assistant", "content": "Mangal yaparken güvenlik kurallarına uymanızı ve yangın riski oluşturmamaya dikkat etmenizi rica ederiz. Belirtilen mangal alanını kullanmanız gerekmektedir."}]}
+{"messages": [{"role": "user", "content": "Akşam mangal yapabilir miyiz?"}, {"role": "assistant", "content": "Evet, mangal alanımızı akşam saatlerinde de kullanabilirsiniz. Güvenlik kurallarına dikkat etmenizi rica ederiz."}]}
+{"messages": [{"role": "user", "content": "Mangal var mı?"}, {"role": "assistant", "content": "Evet, tesisimizde mangal/barbekü yapmak için özel alan bulunmaktadır. Doğayla iç içe mangal keyfi yaşayabilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Mangal yapabilir miyiz?"}, {"role": "assistant", "content": "Evet, tesisimizde mangal/barbekü yapmak için özel alan bulunmaktadır. Doğayla iç içe mangal keyfi yaşayabilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Bungalovda hangi olanaklar mevcut?"}, {"role": "assistant", "content": "Jakuzi, deniz manzarası, açık büfe kahvaltı, Android TV, Amerikan mutfak ve Wi-Fi gibi pek çok imkan sunuluyor."}]}
+{"messages": [{"role": "user", "content": "Burada mangal yapabilir miyim?"}, {"role": "assistant", "content": "Evet, açık havada mangal keyfi yapabilirsiniz. Ekipmanları yanınızda getirmeniz önerilir."}]}
+{"messages": [{"role": "user", "content": "Odaya erken giriş yapabilir miyim?"}, {"role": "assistant", "content": "Erken giriş için önceden haber verirseniz, müsaitlik durumunda yardımcı olunur."}]}
+{"messages": [{"role": "user", "content": "Geç çıkış mümkün mü?"}, {"role": "assistant", "content": "Odanızda geç kalmak isterseniz, ek ücret karşılığında çıkış saati uzatılabilir. Önceden bilgi vermeniz yeterli."}]}
+{"messages": [{"role": "user", "content": "Kahvaltı açık büfe mi?"}, {"role": "assistant", "content": "Evet, sabahları açık büfe kahvaltı hazırlanıyor."}]}
+{"messages": [{"role": "user", "content": "Barbekü alanı herkese açık mı?"}, {"role": "assistant", "content": "Evet, barbekü alanı tüm misafirlerin kullanımına açıktır."}]}
+{"messages": [{"role": "user", "content": "Doğum günü kutlaması için oda süslemesi yapılır mı?"}, {"role": "assistant", "content": "Elbette, doğum günü için oda süslemesi yapılabiliyor. Rezervasyon sırasında belirtmeniz yeterli."}]}
+{"messages": [{"role": "user", "content": "Wi-Fi ücretsiz mi?"}, {"role": "assistant", "content": "Evet, Wi-Fi bağlantısı ücretsizdir."}]}
+{"messages": [{"role": "user", "content": "Evcil hayvan getirmek mümkün mü?"}, {"role": "assistant", "content": "Evet, evcil dostlarınızla birlikte konaklayabilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Fiyata kahvaltı dahil mi?"}, {"role": "assistant", "content": "Sabah açık büfe kahvaltı oda ücretine dahildir."}]}
+{"messages": [{"role": "user", "content": "Otopark ücretsiz mi?"}, {"role": "assistant", "content": "Evet, araçlar için ücretsiz park alanı mevcut."}]}
+{"messages": [{"role": "user", "content": "Odalarda jakuzi var mı?"}, {"role": "assistant", "content": "Her bungalovda özel jakuzi bulunuyor."}]}
+{"messages": [{"role": "user", "content": "Netflix izleyebilir miyiz?"}, {"role": "assistant", "content": "Android TV ile Netflix ve YouTube gibi platformlara erişim sağlanabiliyor."}]}
+{"messages": [{"role": "user", "content": "Giriş saati kaçta?"}, {"role": "assistant", "content": "Odaya girişler saat 14:30'dan itibaren yapılabiliyor."}]}
+{"messages": [{"role": "user", "content": "Çıkış saatini geçersek ek ücret öder miyiz?"}, {"role": "assistant", "content": "Geç çıkış için ek ücret alınabilir, lütfen önceden bilgi verin."}]}
+{"messages": [{"role": "user", "content": "Minimum kaç gece kalmak gerekiyor?"}, {"role": "assistant", "content": "En az 1 gece konaklama yapılabilir."}]}
+{"messages": [{"role": "user", "content": "Çocuklar için uygun mu?"}, {"role": "assistant", "content": "Evet, çocuklu aileler için uygun ve bahçede güvenli oyun alanı var."}]}
+{"messages": [{"role": "user", "content": "Balayı çiftlerine özel bir hizmetiniz var mı?"}, {"role": "assistant", "content": "Balayı çiftleri için oda süslemesi ve hoş geldin ikramı sunuluyor."}]}
+{"messages": [{"role": "user", "content": "Oda temizliği nasıl yapılıyor?"}, {"role": "assistant", "content": "Her misafirden sonra detaylı temizlik yapılıyor, hijyen önceliğimizdir."}]}
+{"messages": [{"role": "user", "content": "Kapalı alanda sigara içilebilir mi?"}, {"role": "assistant", "content": "Kapalı alanlarda sigara içmek yasak, açık alanlarda serbesttir."}]}
+{"messages": [{"role": "user", "content": "Kaç kişi konaklayabilir?"}, {"role": "assistant", "content": "Odalar iki kişilik konaklamalar için uygundur."}]}
+{"messages": [{"role": "user", "content": "Amerikan mutfak var mı?"}, {"role": "assistant", "content": "Evet, Amerikan tipi mutfak bulunuyor."}]}
+{"messages": [{"role": "user", "content": "Fiyat kişi başı mı?"}, {"role": "assistant", "content": "Fiyatlar oda bazında belirleniyor, iki kişilik konaklama için uygundur."}]}
+{"messages": [{"role": "user", "content": "Denize yakın mı?"}, {"role": "assistant", "content": "Sahile oldukça yakın bir konumda bulunuyoruz."}]}
+{"messages": [{"role": "user", "content": "Klima mevcut mu?"}, {"role": "assistant", "content": "Evet, odalarda klima bulunuyor."}]}
+{"messages": [{"role": "user", "content": "Manzara nasıl?"}, {"role": "assistant", "content": "Doğayla iç içe, yemyeşil bir vadi ve orman manzarası sunuluyor."}]}
+{"messages": [{"role": "user", "content": "Odada hangi eşyalar var?"}, {"role": "assistant", "content": "Mini buzdolabı, Amerikan mutfak, jakuzi, klima ve Android TV odada mevcut."}]}
+{"messages": [{"role": "user", "content": "Akşam yemeği servisi var mı?"}, {"role": "assistant", "content": "Akşam yemeği servisi bulunmuyor, isteyen misafirler barbekü yapabilir ya da çevredeki restoranları tercih edebilir."}]}
+{"messages": [{"role": "user", "content": "Barbekü yapmak için rezervasyon gerekiyor mu?"}, {"role": "assistant", "content": "Barbekü alanı tüm misafirlere açıktır, rezervasyon gerekmiyor."}]}
+{"messages": [{"role": "user", "content": "Mangal kömürü sağlanıyor mu?"}, {"role": "assistant", "content": "Mangal kömürü ve yiyecek malzemelerini misafirlerin getirmesi gerekiyor."}]}
+{"messages": [{"role": "user", "content": "Mangal yaparken nelere dikkat edilmeli?"}, {"role": "assistant", "content": "Güvenlik kurallarına uymanız ve yangın riskine karşı dikkatli olmanız rica olunur."}]}
+{"messages": [{"role": "user", "content": "Akşam mangal yakabilir miyiz?"}, {"role": "assistant", "content": "Evet, akşam saatlerinde de mangal alanını kullanabilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Özel günler için organizasyon yapılır mı?"}, {"role": "assistant", "content": "Doğum günü, yıldönümü, evlilik teklifi gibi özel anlar için organizasyon hizmeti sunuluyor."}]}
+{"messages": [{"role": "user", "content": "Çocuklar için oyun parkı var mı?"}, {"role": "assistant", "content": "Evet, bahçede güvenli oyun alanı mevcut."}]}
+{"messages": [{"role": "user", "content": "Otopark ücretli mi?"}, {"role": "assistant", "content": "Otopark ücretsizdir."}]}
+{"messages": [{"role": "user", "content": "Wi-Fi bağlantısı hızlı mı?"}, {"role": "assistant", "content": "Wi-Fi bağlantısı güçlü ve hızlıdır."}]}
+{"messages": [{"role": "user", "content": "Giriş ve çıkış saatleri nedir?"}, {"role": "assistant", "content": "Giriş 14:30'dan itibaren, çıkış ise en geç 13:00'tedir."}]}
+{"messages": [{"role": "user", "content": "Market yakın mı?"}, {"role": "assistant", "content": "5 dakikalık yürüme mesafesinde market bulunuyor."}]}
+{"messages": [{"role": "user", "content": "Huzurlu bir ortam mı?"}, {"role": "assistant", "content": "Doğayla iç içe, sessiz ve huzurlu bir ortam sunuluyor."}]}
+{"messages": [{"role": "user", "content": "Ulaşım kolay mı?"}, {"role": "assistant", "content": "Ana yol üzerinde olduğumuz için ulaşım oldukça kolay."}]}
+{"messages": [{"role": "user", "content": "Fiyatlar nasıl belirleniyor?"}, {"role": "assistant", "content": "Fiyatlar sezona ve haftaiçi/haftasonu durumuna göre değişiyor. Güncel bilgi için iletişime geçebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Minimum kaç gün kalabilirim?"}, {"role": "assistant", "content": "En az 1 gece konaklama yapılabilir."}]}
+{"messages": [{"role": "user", "content": "Çocuklu aileler için uygun mu?"}, {"role": "assistant", "content": "Evet, çocuklu aileler için uygundur."}]}
+{"messages": [{"role": "user", "content": "Balayı çiftlerine özel süsleme var mı?"}, {"role": "assistant", "content": "Balayı çiftleri için romantik oda süslemesi yapılabiliyor."}]}
+{"messages": [{"role": "user", "content": "Sigara içmek serbest mi?"}, {"role": "assistant", "content": "Kapalı alanlarda sigara içmek yasak, açık alanda içilebilir."}]}
+{"messages": [{"role": "user", "content": "Oda kapasitesi nedir?"}, {"role": "assistant", "content": "Odalar iki kişilik konaklamalar için uygundur."}]}
+{"messages": [{"role": "user", "content": "Mutfak var mı?"}, {"role": "assistant", "content": "Amerikan tipi mutfak bulunuyor."}]}
+{"messages": [{"role": "user", "content": "Fiyat oda başı mı?"}, {"role": "assistant", "content": "Fiyatlar oda bazında belirleniyor."}]}
+{"messages": [{"role": "user", "content": "Sahile yakın mı?"}, {"role": "assistant", "content": "Sahile oldukça yakın bir konumdayız."}]}
+{"messages": [{"role": "user", "content": "Klima var mı?"}, {"role": "assistant", "content": "Odalarda klima mevcut."}]}
+{"messages": [{"role": "user", "content": "Manzara güzel mi?"}, {"role": "assistant", "content": "Orman ve vadi manzarası ile huzurlu bir ortam sunuluyor."}]}
+{"messages": [{"role": "user", "content": "Odada hangi imkanlar var?"}, {"role": "assistant", "content": "Mini buzdolabı, Amerikan mutfak, jakuzi, klima ve Android TV mevcut."}]}
+{"messages": [{"role": "user", "content": "Akşam yemeği var mı?"}, {"role": "assistant", "content": "Akşam yemeği sunulmuyor, isteyenler barbekü yapabilir."}]}
+{"messages": [{"role": "user", "content": "Barbekü yapmak için rezervasyon gerekli mi?"}, {"role": "assistant", "content": "Barbekü alanı tüm misafirlere açıktır, rezervasyon gerekmiyor."}]}
+{"messages": [{"role": "user", "content": "Mangal kömürü temin edebilir miyim?"}, {"role": "assistant", "content": "Mangal kömürü ve yiyecek malzemeleri misafirler tarafından getirilmeli."}]}
+{"messages": [{"role": "user", "content": "Mangal yaparken güvenlik kurallarına uymak zorunda mıyım?"}, {"role": "assistant", "content": "Evet, yangın riski ve güvenlik için kurallara uymanız gerekiyor."}]}
+{"messages": [{"role": "user", "content": "Akşam mangal yakmak mümkün mü?"}, {"role": "assistant", "content": "Evet, akşam saatlerinde de mangal yapılabilir."}]}
+{"messages": [{"role": "user", "content": "Özel günler için organizasyon yapılabiliyor mu?"}, {"role": "assistant", "content": "Doğum günü, yıldönümü, evlilik teklifi gibi özel günler için organizasyon hizmeti var."}]}
+{"messages": [{"role": "user", "content": "Çocuklar için oyun alanı var mı?"}, {"role": "assistant", "content": "Bahçede çocuklar için güvenli oyun alanı bulunuyor."}]}
+{"messages": [{"role": "user", "content": "Otopark ücretli mi?"}, {"role": "assistant", "content": "Otopark ücretsizdir."}]}
+{"messages": [{"role": "user", "content": "Wi-Fi hızlı mı?"}, {"role": "assistant", "content": "Wi-Fi bağlantısı hızlı ve kesintisizdir."}]}
+{"messages": [{"role": "user", "content": "Giriş/çıkış saatleri nedir?"}, {"role": "assistant", "content": "Giriş 14:30, çıkış 13:00."}]}
+{"messages": [{"role": "user", "content": "Market yakınlarda var mı?"}, {"role": "assistant", "content": "Yürüme mesafesinde market bulunuyor."}]}
+{"messages": [{"role": "user", "content": "Ortam sessiz mi?"}, {"role": "assistant", "content": "Sessiz, huzurlu ve doğayla iç içe bir ortam sunuluyor."}]}
+{"messages": [{"role": "user", "content": "Ulaşım rahat mı?"}, {"role": "assistant", "content": "Ana yol üzerinde olduğumuz için ulaşım kolay."}]}
+{"messages": [{"role": "user", "content": "Fiyatlar nasıl?"}, {"role": "assistant", "content": "Fiyatlar sezona ve haftaiçi/haftasonu durumuna göre değişiyor."}]}
+{"messages": [{"role": "user", "content": "Minimum kaç gece kalabilirim?"}, {"role": "assistant", "content": "Minimum 1 gece konaklama yapılabiliyor."}]}
+{"messages": [{"role": "user", "content": "Çocuklu aileler için uygun mudur?"}, {"role": "assistant", "content": "Evet, çocuklu aileler için uygun."}]}
+{"messages": [{"role": "user", "content": "Balayı çiftlerine özel bir uygulamanız var mı?"}, {"role": "assistant", "content": "Balayı çiftlerine özel oda süslemesi ve ikram sunuluyor."}]}
+{"messages": [{"role": "user", "content": "Temizlik nasıl sağlanıyor?"}, {"role": "assistant", "content": "Her konaklama sonrası detaylı temizlik yapılır."}]}
+{"messages": [{"role": "user", "content": "Sigara içmek mümkün mü?"}, {"role": "assistant", "content": "Kapalı alanlarda yasak, açık alanda serbesttir."}]}
+{"messages": [{"role": "user", "content": "Oda kapasitesi kaç kişi?"}, {"role": "assistant", "content": "İki kişilik odalar mevcuttur."}]}
+{"messages": [{"role": "user", "content": "Mutfak var mı?"}, {"role": "assistant", "content": "Amerikan tipi mutfak bulunuyor."}]}
+{"messages": [{"role": "user", "content": "Fiyatlar nasıl hesaplanıyor?"}, {"role": "assistant", "content": "Fiyatlar oda bazında ve döneme göre değişiklik gösteriyor."}]}
+{"messages": [{"role": "user", "content": "Denize uzaklık nedir?"}, {"role": "assistant", "content": "Sahile yakın bir konumdayız."}]}
+{"messages": [{"role": "user", "content": "Klima bulunuyor mu?"}, {"role": "assistant", "content": "Odalarda klima mevcut."}]}
+{"messages": [{"role": "user", "content": "Manzara var mı?"}, {"role": "assistant", "content": "Orman ve vadi manzarası mevcut."}]}
+{"messages": [{"role": "user", "content": "Odada neler var?"}, {"role": "assistant", "content": "Mini buzdolabı, Amerikan mutfak, jakuzi, klima ve Android TV mevcut."}]}
+{"messages": [{"role": "user", "content": "Bungalov çevresinde hangi aktiviteler yapılabilir?"}, {"role": "assistant", "content": "Doğa yürüyüşü, bisiklet turu, mangal keyfi ve manzara seyri gibi aktiviteler yapabilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Mangal için kömür temin edebiliyor muyuz?"}, {"role": "assistant", "content": "Mangal kömürü ve et gibi malzemeleri çevredeki marketlerden temin edebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Odaya giriş saatini öğrenebilir miyim?"}, {"role": "assistant", "content": "Girişler saat 14:30'dan itibaren yapılabiliyor."}]}
+{"messages": [{"role": "user", "content": "Çıkış için son saat kaç?"}, {"role": "assistant", "content": "Çıkış işlemleri en geç 13:00'te tamamlanmalı."}]}
+{"messages": [{"role": "user", "content": "Yıldönümü için oda süslemesi yapılıyor mu?"}, {"role": "assistant", "content": "Yıldönümü ve özel günler için oda süslemesi talep edebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Wi-Fi şifresi nedir?"}, {"role": "assistant", "content": "Wi-Fi şifresi girişte size iletilecektir."}]}
+{"messages": [{"role": "user", "content": "Evcil hayvan için ek ücret var mı?"}, {"role": "assistant", "content": "Evcil hayvanlar için ek ücret alınmamaktadır."}]}
+{"messages": [{"role": "user", "content": "Kahvaltı açık büfe mi sunuluyor?"}, {"role": "assistant", "content": "Evet, açık büfe kahvaltı hizmetimiz var."}]}
+{"messages": [{"role": "user", "content": "Otoparkta yer bulmak kolay mı?"}, {"role": "assistant", "content": "Geniş otopark alanı sayesinde kolayca yer bulabilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Jakuzili oda seçeneği var mı?"}, {"role": "assistant", "content": "Evet, jakuzili oda seçeneğimiz mevcuttur."}]}
+{"messages": [{"role": "user", "content": "TV'de YouTube izlenebilir mi?"}, {"role": "assistant", "content": "Android TV ile YouTube ve diğer uygulamalara erişebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Erken giriş için ek ücret öder miyim?"}, {"role": "assistant", "content": "Erken giriş için ek ücret alınmaz, sadece müsaitlik durumuna göre yardımcı olunur."}]}
+{"messages": [{"role": "user", "content": "Çıkış saatini uzatmak istersek ne yapmalıyız?"}, {"role": "assistant", "content": "Çıkış saatini uzatmak için önceden bilgi vermeniz yeterlidir."}]}
+{"messages": [{"role": "user", "content": "Minimum kaç gün rezervasyon yapılabiliyor?"}, {"role": "assistant", "content": "En az 1 gece için rezervasyon yapılabilir."}]}
+{"messages": [{"role": "user", "content": "Çocuklar için ekstra yatak mümkün mü?"}, {"role": "assistant", "content": "Ekstra yatak talebinizi rezervasyon sırasında iletebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Balayı çiftlerine sürpriz hizmetleriniz var mı?"}, {"role": "assistant", "content": "Balayı çiftlerine özel sürprizler ve oda süslemesi sunulmaktadır."}]}
+{"messages": [{"role": "user", "content": "Oda temizliği hangi sıklıkla yapılıyor?"}, {"role": "assistant", "content": "Her çıkış sonrası detaylı temizlik yapılır."}]}
+{"messages": [{"role": "user", "content": "Açık alanda sigara içilebilir mi?"}, {"role": "assistant", "content": "Açık alanlarda sigara içmek serbesttir."}]}
+{"messages": [{"role": "user", "content": "Oda kapasitesi nedir?"}, {"role": "assistant", "content": "Odalarımız iki kişiliktir."}]}
+{"messages": [{"role": "user", "content": "Amerikan mutfakta hangi ekipmanlar var?"}, {"role": "assistant", "content": "Mutfakta buzdolabı, çaycı, kahve makinesi ve temel mutfak gereçleri bulunmaktadır. (Yemek pişirme ocağı maalesef mevcut değildir) Dilerseniz tesisimizdeki barbekü alanını kullanabilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Fiyatlar sezonluk mu değişiyor?"}, {"role": "assistant", "content": "Fiyatlar sezona göre değişiklik gösterebilir."}]}
+{"messages": [{"role": "user", "content": "Plaja uzaklık ne kadar?"}, {"role": "assistant", "content": "Plaja yürüyerek 10 dakika mesafedeyiz."}]}
+{"messages": [{"role": "user", "content": "Klima her odada var mı?"}, {"role": "assistant", "content": "Tüm odalarda klima mevcuttur."}]}
+{"messages": [{"role": "user", "content": "Manzara fotoğrafı gönderebilir misiniz?"}, {"role": "assistant", "content": "Rezervasyon öncesi manzara fotoğraflarını paylaşabiliriz."}]}
+{"messages": [{"role": "user", "content": "Odada ütü var mı?"}, {"role": "assistant", "content": "Ütü talep üzerine temin edilebilir."}]}
+{"messages": [{"role": "user", "content": "Akşam yemeği için öneriniz var mı?"}, {"role": "assistant", "content": "Çevredeki restoranlar veya kendi barbekünüzü yapabilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Barbekü alanı kaçta kapanıyor?"}, {"role": "assistant", "content": "Barbekü alanı saat 23:00'e kadar açıktır."}]}
+{"messages": [{"role": "user", "content": "Mangal alanı gölgelik mi?"}, {"role": "assistant", "content": "Mangal alanı hem açık hem gölgelik bölümlere sahiptir."}]}
+{"messages": [{"role": "user", "content": "Mangal kömürü nereden alınır?"}, {"role": "assistant", "content": "Yakındaki marketten mangal kömürü alabilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Mangal alanında masa var mı?"}, {"role": "assistant", "content": "Barbekü alanında masa ve sandalye mevcuttur."}]}
+{"messages": [{"role": "user", "content": "Çocuklar için havuz var mı?"}, {"role": "assistant", "content": "Çocuk havuzu bulunmamaktadır."}]}
+{"messages": [{"role": "user", "content": "Otoparkta kamera var mı?"}, {"role": "assistant", "content": "Otopark alanı güvenlik kameralarıyla izlenmektedir."}]}
+{"messages": [{"role": "user", "content": "Wi-Fi çekim gücü nasıl?"}, {"role": "assistant", "content": "Wi-Fi tüm alanlarda güçlü şekilde çekmektedir."}]}
+{"messages": [{"role": "user", "content": "Girişte kimlik gerekiyor mu?"}, {"role": "assistant", "content": "Girişte kimlik ibrazı zorunludur."}]}
+{"messages": [{"role": "user", "content": "Market uzak mı?"}, {"role": "assistant", "content": "Market 200 metre mesafededir."}]}
+{"messages": [{"role": "user", "content": "Ortamda böcek var mı?"}, {"role": "assistant", "content": "Doğal ortamda zaman zaman böcek görülebilir, düzenli ilaçlama yapılır."}]}
+{"messages": [{"role": "user", "content": "Ulaşım için servis var mı?"}, {"role": "assistant", "content": "Servis bulunmamaktadır, toplu taşıma veya özel araç kullanılabilir."}]}
+{"messages": [{"role": "user", "content": "Fiyatlara vergi dahil mi?"}, {"role": "assistant", "content": "Fiyatlara tüm vergiler dahildir."}]}
+{"messages": [{"role": "user", "content": "En erken rezervasyon ne zaman yapılabilir?"}, {"role": "assistant", "content": "Dilediğiniz tarihe rezervasyon yaptırabilirsiniz, erken rezervasyon önerilir."}]}
+{"messages": [{"role": "user", "content": "Oda temizliği için ekstra ücret var mı?"}, {"role": "assistant", "content": "Oda temizliği için ek ücret alınmaz."}]}
+{"messages": [{"role": "user", "content": "Sigara içilmeyen oda seçeneği var mı?"}, {"role": "assistant", "content": "Tüm odalarımızda sigara içilmemektedir."}]}
+{"messages": [{"role": "user", "content": "Oda kapasitesi artabiliyor mu?"}, {"role": "assistant", "content": "Oda kapasitesi sabittir, ek yatak talepleri için iletişime geçebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Mutfakta mikrodalga var mı?"}, {"role": "assistant", "content": "Mutfakta mikrodalga fırın bulunmamaktadır."}]}
+{"messages": [{"role": "user", "content": "Fiyatlar hafta içi ve hafta sonu farklı mı?"}, {"role": "assistant", "content": "Evet, hafta sonu fiyatlarımız farklılık gösterebilir."}]}
+{"messages": [{"role": "user", "content": "Denize ulaşım kolay mı?"}, {"role": "assistant", "content": "Sahile yürüyerek ulaşmak mümkündür."}]}
+{"messages": [{"role": "user", "content": "Klima sessiz çalışıyor mu?"}, {"role": "assistant", "content": "Odalardaki klimalar sessiz ve verimlidir."}]}
+{"messages": [{"role": "user", "content": "Manzara gece de güzel mi?"}, {"role": "assistant", "content": "Gece yıldızları ve doğa manzarası oldukça keyiflidir."}]}
+{"messages": [{"role": "user", "content": "Odada kettle var mı?"}, {"role": "assistant", "content": "Kettle talep üzerine sağlanabilir."}]}
+{"messages": [{"role": "user", "content": "Akşam yemeği için rezervasyon gerekli mi?"}, {"role": "assistant", "content": "Akşam yemeği servisi bulunmadığı için rezervasyon gerekli değildir."}]}
+{"messages": [{"role": "user", "content": "Barbekü alanı gölgelik mi?"}, {"role": "assistant", "content": "Barbekü alanında gölgelik bölümler de bulunmaktadır."}]}
+{"messages": [{"role": "user", "content": "Mangal kömürü satışı var mı?"}, {"role": "assistant", "content": "Mangal kömürü satışımız yoktur, çevredeki marketlerden temin edebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Mangal alanı kaç kişilik?"}, {"role": "assistant", "content": "Barbekü alanı aynı anda 10 kişiye kadar hizmet verebilir."}]}
+{"messages": [{"role": "user", "content": "Çocuklar için oyun grubu var mı?"}, {"role": "assistant", "content": "Bahçede çocuk oyun grubu mevcuttur."}]}
+{"messages": [{"role": "user", "content": "Otopark alanı geniş mi?"}, {"role": "assistant", "content": "Otoparkımız oldukça geniştir."}]}
+{"messages": [{"role": "user", "content": "Wi-Fi bağlantısı kopuyor mu?"}, {"role": "assistant", "content": "Wi-Fi bağlantımız genellikle kesintisizdir."}]}
+{"messages": [{"role": "user", "content": "Girişte valiz taşıma hizmeti var mı?"}, {"role": "assistant", "content": "Valiz taşıma hizmetimiz bulunmamaktadır."}]}
+{"messages": [{"role": "user", "content": "Markette taze ürün var mı?"}, {"role": "assistant", "content": "Yakındaki markette taze ürünler bulabilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Ortamda sivrisinek var mı?"}, {"role": "assistant", "content": "Yaz aylarında sivrisinek görülebilir, sineklikler mevcuttur."}]}
+{"messages": [{"role": "user", "content": "Ulaşım için taksi çağırabilir miyiz?"}, {"role": "assistant", "content": "Resepsiyondan taksi çağırabilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Fiyatlara temizlik dahil mi?"}, {"role": "assistant", "content": "Temizlik hizmeti fiyata dahildir."}]}
+{"messages": [{"role": "user", "content": "Rezervasyon iptal koşulları nedir?"}, {"role": "assistant", "content": "İptal koşulları rezervasyon sırasında iletilmektedir."}]}
+{"messages": [{"role": "user", "content": "Oda temizliği günlük mü?"}, {"role": "assistant", "content": "Oda temizliği çıkışta yapılmaktadır, uzun konaklamalarda talep edebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Sigara içilebilen alanlar neresi?"}, {"role": "assistant", "content": "Sadece açık alanlarda sigara içilebilir."}]}
+{"messages": [{"role": "user", "content": "Oda kapasitesi artırılabilir mi?"}, {"role": "assistant", "content": "Oda kapasitesi sabittir, ek yatak için iletişime geçebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Mutfakta fırın var mı?"}, {"role": "assistant", "content": "Mutfakta fırın bulunmamaktadır."}]}
+{"messages": [{"role": "user", "content": "Fiyatlar kişi başı mı, oda başı mı?"}, {"role": "assistant", "content": "Fiyatlar oda başı olarak belirlenmiştir."}]}
+{"messages": [{"role": "user", "content": "Plaja ulaşım nasıl?"}, {"role": "assistant", "content": "Plaja yürüyerek veya araçla ulaşabilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Klima bakımı düzenli yapılıyor mu?"}, {"role": "assistant", "content": "Klimaların bakımı düzenli olarak yapılmaktadır."}]}
+{"messages": [{"role": "user", "content": "Manzara fotoğrafı gönderebilir misiniz?"}, {"role": "assistant", "content": "Talep ederseniz manzara fotoğrafları paylaşılabilir."}]}
+{"messages": [{"role": "user", "content": "Odada saç kurutma makinesi var mı?"}, {"role": "assistant", "content": "Saç kurutma makinesi talep üzerine sağlanabilir."}]}
+{"messages": [{"role": "user", "content": "Akşam yemeği için dışarıdan sipariş verebilir miyiz?"}, {"role": "assistant", "content": "Çevredeki restoranlardan paket servis yapabilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Barbekü alanı aydınlatmalı mı?"}, {"role": "assistant", "content": "Barbekü alanı akşamları için aydınlatmalıdır."}]}
+{"messages": [{"role": "user", "content": "Mangal kömürü getirmeyi unuttum, ne yapabilirim?"}, {"role": "assistant", "content": "Yakındaki marketten kolayca temin edebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Mangal alanı rezervasyonlu mu?"}, {"role": "assistant", "content": "Mangal alanı rezervasyon gerektirmez, ortak kullanıma açıktır."}]}
+{"messages": [{"role": "user", "content": "Çocuklar için salıncak var mı?"}, {"role": "assistant", "content": "Bahçede çocuklar için salıncak bulunmaktadır."}]}
+{"messages": [{"role": "user", "content": "Otoparkta engelli alanı var mı?"}, {"role": "assistant", "content": "Otoparkımızda engelli misafirler için özel alan ayrılmıştır."}]}
+{"messages": [{"role": "user", "content": "Wi-Fi bağlantısı ücretsiz mi?"}, {"role": "assistant", "content": "Evet, Wi-Fi bağlantısı ücretsizdir."}]}
+{"messages": [{"role": "user", "content": "Giriş çıkış saatleri değişebilir mi?"}, {"role": "assistant", "content": "Müsaitlik durumuna göre esneklik sağlanabilir."}]}
+{"messages": [{"role": "user", "content": "Markette organik ürün var mı?"}, {"role": "assistant", "content": "Yakındaki markette organik ürünler bulunabilir."}]}
+{"messages": [{"role": "user", "content": "Ortamda köpek var mı?"}, {"role": "assistant", "content": "Bahçede zaman zaman köpekler görülebilir."}]}
+{"messages": [{"role": "user", "content": "Ulaşım için minibüs geçiyor mu?"}, {"role": "assistant", "content": "Ana yoldan minibüs geçmektedir."}]}
+{"messages": [{"role": "user", "content": "Fiyatlar sabit mi?"}, {"role": "assistant", "content": "Fiyatlar dönemsel olarak değişebilir."}]}
+{"messages": [{"role": "user", "content": "Rezervasyon için ön ödeme gerekiyor mu?"}, {"role": "assistant", "content": "Rezervasyon için ön ödeme talep edilebilir."}]}
+{"messages": [{"role": "user", "content": "Oda temizliği talep edebilir miyim?"}, {"role": "assistant", "content": "Uzun konaklamalarda ara temizlik talep edebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Sigara içilmeyen oda talep edebilir miyim?"}, {"role": "assistant", "content": "Tüm odalarımız sigara içilmezdir."}]}
+{"messages": [{"role": "user", "content": "Oda kapasitesi nedir?"}, {"role": "assistant", "content": "İki kişilik odalarımız mevcuttur."}]}
+{"messages": [{"role": "user", "content": "Mutfakta su ısıtıcısı var mı?"}, {"role": "assistant", "content": "Su ısıtıcısı talep üzerine sağlanabilir."}]}
+{"messages": [{"role": "user", "content": "Fiyatlara kahvaltı dahil mi?"}, {"role": "assistant", "content": "Fiyata sabah kahvaltısı dahildir."}]}
+{"messages": [{"role": "user", "content": "Plajda şezlong var mı?"}, {"role": "assistant", "content": "Plajda şezlong ve şemsiye kiralanabilir."}]}
+{"messages": [{"role": "user", "content": "Klima kumandası odada mı?"}, {"role": "assistant", "content": "Klima kumandası odada mevcuttur."}]}
+{"messages": [{"role": "user", "content": "Manzara odadan görünüyor mu?"}, {"role": "assistant", "content": "Odalardan doğa manzarası izlenebilir."}]}
+{"messages": [{"role": "user", "content": "Odada masa var mı?"}, {"role": "assistant", "content": "Odada çalışma masası bulunmaktadır."}]}
+{"messages": [{"role": "user", "content": "Mangal yapmak için gerekli ekipmanları sağlıyor musunuz?"}, {"role": "assistant", "content": "Barbekü için gerekli alet-edavatları misafirlerimizin getirmesi önerilir."}]}
+{"messages": [{"role": "user", "content": "Giriş saatinden önce odaya girebilir miyiz?"}, {"role": "assistant", "content": "Erken giriş talebinizi önceden bildirirseniz, müsaitlik durumuna göre erkenden giriş yapma imkanı sunabiliriz."}]}
+{"messages": [{"role": "user", "content": "Çıkış saatinden sonra odada kalabilir miyiz?"}, {"role": "assistant", "content": "Geç çıkış genellikle ekstra ücrete tabidir. Lütfen çıkış saatini uzatmak isterseniz önceden haber veriniz."}]}
+{"messages": [{"role": "user", "content": "Sabah kahvaltısı açık büfe mi?"}, {"role": "assistant", "content": "Evet, sabahları açık büfe kahvaltı servisimiz bulunmaktadır."}]}
+{"messages": [{"role": "user", "content": "Tesisinizde organizasyon yapabilir miyiz?"}, {"role": "assistant", "content": "Evet, bungalovumuzda özel günleriniz için organizasyon ve süsleme hizmetleri sunmaktayız."}]}
+{"messages": [{"role": "user", "content": "Doğum günü kutlaması için oda süsleyebilir misiniz?"}, {"role": "assistant", "content": "Evet, talep üzerine doğum günü konseptinde süslemeler yapabiliriz. Lütfen rezervasyon sırasında detayları belirtiniz."}]}
+{"messages": [{"role": "user", "content": "Bungalovunuzda Wi-Fi var mı?"}, {"role": "assistant", "content": "Evet, ücretsiz Wi-Fi bulunmaktadır."}]}
+{"messages": [{"role": "user", "content": "Tesisinizde evcil hayvan kabul ediliyor mu?"}, {"role": "assistant", "content": "Evet, evcil hayvan kabul edilmektedir."}]}
+{"messages": [{"role": "user", "content": "Konaklama fiyatına kahvaltı dahil mi?"}, {"role": "assistant", "content": "Evet, sabah açık büfe kahvaltı fiyata dahildir."}]}
+{"messages": [{"role": "user", "content": "Otopark ücretsiz mi?"}, {"role": "assistant", "content": "Otopark ücretsizdir. Tesisimize gelen misafirler arabalarını ücretsiz olarak park edebilir."}]}
+{"messages": [{"role": "user", "content": "Bungalovunuzda jakuzi var mı?"}, {"role": "assistant", "content": "Evet, bungalovumuzda jakuzi bulunmaktadır."}]}
+{"messages": [{"role": "user", "content": "Netflix izleyebilir miyiz?"}, {"role": "assistant", "content": "Evet, Android TV sayesinde Netflix'e erişebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Giriş saati kaçta başlıyor?"}, {"role": "assistant", "content": "Girişler saat 14:30 itibarıyla yapılmaktadır."}]}
+{"messages": [{"role": "user", "content": "Çıkış saatinden geç kalırsak ek ücret öder miyiz?"}, {"role": "assistant", "content": "Geç çıkış genellikle ekstra ücrete tabidir. Lütfen çıkış saatini uzatmak isterseniz önceden haber veriniz."}]}
+{"messages": [{"role": "user", "content": "Minimum kaç gece konaklama zorunlu?"}, {"role": "assistant", "content": "Minimum 1 gece konaklama yapılabilir."}]}
+{"messages": [{"role": "user", "content": "Bungalovunuz çocuklu aileler için uygun mu?"}, {"role": "assistant", "content": "Evet, çocuklu ailelere uygundur. Geniş bahçe alanımız çocukların güvenle oynayabileceği bir ortam sunar."}]}
+{"messages": [{"role": "user", "content": "Balayı çiftlerine özel hizmetiniz var mı?"}, {"role": "assistant", "content": "Balayı çiftleri için organizasyon hizmeti sağlıyoruz. Lütfen rezervasyon sırasında belirtiniz ve kişiye özel organizasyon deneyiminin tadını çıkarın."}]}
+{"messages": [{"role": "user", "content": "Temizlik hizmetiniz nasıl?"}, {"role": "assistant", "content": "Her misafir sonrası detaylı temizlik yapılmaktadır. Hijyen önceliğimizdir."}]}
+{"messages": [{"role": "user", "content": "Sigara içmek serbest mi?"}, {"role": "assistant", "content": "Kapalı alanlarda sigara içmek yasaktır, açık alanda içilebilir."}]}
+{"messages": [{"role": "user", "content": "Bungalovunuz kaç kişilik?"}, {"role": "assistant", "content": "İki kişilik konaklamalar için uygundur"}]}
+{"messages": [{"role": "user", "content": "Mutfak var mı?"}, {"role": "assistant", "content": "Evet, Amerikan tipi mutfağımız mevcuttur."}]}
+{"messages": [{"role": "user", "content": "Fiyat kişi başı mı oda başı mı?"}, {"role": "assistant", "content": "Fiyat oda bazlıdır, iki kişilik konaklama için geçerlidir."}]}
+{"messages": [{"role": "user", "content": "Denize yakın mı?"}, {"role": "assistant", "content": "Evet, sahile oldukça yakın bir konumda bulunuyoruz."}]}
+{"messages": [{"role": "user", "content": "Klima var mı?"}, {"role": "assistant", "content": "Evet, bungalovda klima mevcuttur."}]}
+{"messages": [{"role": "user", "content": "Manzara nasıl?"}, {"role": "assistant", "content": "Tesisimizin etrafı ormanlarla çevrilidir. Yemyeşil bir vadi manzarası sunar, kuş sesleri eşliğinde çok huzurludur."}]}
+{"messages": [{"role": "user", "content": "Odanızda hangi eşyalar var?"}, {"role": "assistant", "content": "Odalarımızda mini buzdolabı, Amerikan mutfak, jakuzi, klima ve Android TV bulunmaktadır."}]}
+{"messages": [{"role": "user", "content": "Akşam yemeği servisi var mı?"}, {"role": "assistant", "content": "Maalesef tesisimizde öğle/akşam yemeği servisi yok. Misafirlerimiz arzu ederlerse barbekü yapabilir veya çevredeki restoranları kullanabilir."}]}
+{"messages": [{"role": "user", "content": "Tesisinizde barbekü yapmak için özel alan var mı?"}, {"role": "assistant", "content": "Evet, tesisimizde mangal/barbekü yapmak için özel alan bulunmaktadır. Doğayla iç içe mangal keyfi yaşayabilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Mangal kömürü ve malzemeleri sağlıyor musunuz?"}, {"role": "assistant", "content": "Mangal alanımız hazırdır, kömür ve mangal malzemelerini misafirlerimizin temin etmesi gerekmektedir."}]}
+{"messages": [{"role": "user", "content": "Mangal yaparken dikkat edilmesi gerekenler nelerdir?"}, {"role": "assistant", "content": "Mangal yaparken güvenlik kurallarına uymanızı ve yangın riski oluşturmamaya dikkat etmenizi rica ederiz. Belirtilen mangal alanını kullanmanız gerekmektedir."}]}
+{"messages": [{"role": "user", "content": "Akşam mangal yakmak mümkün mü?"}, {"role": "assistant", "content": "Evet, mangal alanımızı akşam saatlerinde de kullanabilirsiniz. Güvenlik kurallarına dikkat etmenizi rica ederiz."}]}
+{"messages": [{"role": "user", "content": "Barbekü için rezervasyon gerekiyor mu?"}, {"role": "assistant", "content": "Barbekü alanı tüm misafirlerimizin kullanımına açıktır, rezervasyon gerekmemektedir."}]}
+{"messages": [{"role": "user", "content": "Tesisinizde hangi organizasyonlar yapılabiliyor?"}, {"role": "assistant", "content": "Doğum günleri, yıldönümleri, evlilik teklifleri, balayı kutlamaları, nişan kutlamaları ve diğer tüm özel anlarınız için organizasyon hizmeti sunuyoruz. Detaylı bilgi için bizimle iletişime geçebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Özel günler için süsleme hizmetiniz var mı?"}, {"role": "assistant", "content": "Evet, özel günleriniz için kapsamlı organizasyon ve süsleme hizmetleri sunuyoruz. Her türlü kutlama için size özel hazırlık yapabiliriz. Detaylı bilgi için bizimle iletişime geçebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Otoparkınız ücretli mi?"}, {"role": "assistant", "content": "Otopark ücretsizdir. Tesisimize gelen misafirler arabalarını ücretsiz olarak park edebilir."}]}
+{"messages": [{"role": "user", "content": "Çocuk oyun alanı var mı?"}, {"role": "assistant", "content": "Evet, çocuklu ailelere uygundur. Geniş bahçe alanımız çocukların güvenle oynayabileceği bir ortam sunar."}]}
+{"messages": [{"role": "user", "content": "Bungalovunuzda klima mevcut mu?"}, {"role": "assistant", "content": "Evet, bungalovda klima mevcuttur."}]}
+{"messages": [{"role": "user", "content": "Tesisinizde internet bağlantısı var mı?"}, {"role": "assistant", "content": "Evet, ücretsiz Wi-Fi bulunmaktadır."}]}
+{"messages": [{"role": "user", "content": "Tesisinizde hangi saatlerde giriş ve çıkış yapılıyor?"}, {"role": "assistant", "content": "Giriş saati 14:30, çıkış saati ise 13:00'tür."}]}
+{"messages": [{"role": "user", "content": "Bungalovunuzda Amerikan mutfak var mı?"}, {"role": "assistant", "content": "Evet, Amerikan tipi mutfağımız mevcuttur."}]}
+{"messages": [{"role": "user", "content": "Tesisinizde hangi saatlerde kahvaltı veriliyor?"}, {"role": "assistant", "content": "Sabah 08:00 - 10:30 arasıdır."}]}
+{"messages": [{"role": "user", "content": "Tesisinizde akşam yemeği yiyebilir miyiz?"}, {"role": "assistant", "content": "Maalesef tesisimizde öğle/akşam yemeği servisi yok. Misafirlerimiz arzu ederlerse barbekü yapabilir veya çevredeki restoranları kullanabilir."}]}
+{"messages": [{"role": "user", "content": "Bungalovunuzda Netflix ücretsiz mi?"}, {"role": "assistant", "content": "Netflix üyeliğimiz ücretsiz olarak sunulmaktadır."}]}
+{"messages": [{"role": "user", "content": "Tesisinizde sigara içilebilir mi?"}, {"role": "assistant", "content": "Kapalı alanlarda sigara içmek yasaktır, açık alanda içilebilir."}]}
+{"messages": [{"role": "user", "content": "Tesisinizde çocuklar için uygun alan var mı?"}, {"role": "assistant", "content": "Evet, çocuklu ailelere uygundur. Geniş bahçe alanımız çocukların güvenle oynayabileceği bir ortam sunar."}]}
+{"messages": [{"role": "user", "content": "Mangal var mı?"}, {"role": "assistant", "content": "Evet, mangal alanı mevcut."}]}
+{"messages": [{"role": "user", "content": "Organizasyon?"}, {"role": "assistant", "content": "Organizasyon hizmetimiz süsleme, ambiyans hazırlığı, özel ışıklandırma, masa düzeni ve küçük ikramları kapsamaktadır. Her özel günün kendine özgü ihtiyaçlarına göre planlamalar yapıyoruz. Detaylı bilgi için bizimle iletişime geçebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Wi-Fi?"}, {"role": "assistant", "content": "Ücretsiz Wi-Fi var."}]}
+{"messages": [{"role": "user", "content": "Kahvaltı?"}, {"role": "assistant", "content": "Kahvaltı dahil."}]}
+{"messages": [{"role": "user", "content": "Park yeri?"}, {"role": "assistant", "content": "Ücretsiz otopark mevcut."}]}
+{"messages": [{"role": "user", "content": "Çocuk?"}, {"role": "assistant", "content": "Çocuklu aileler için uygun."}]}
+{"messages": [{"role": "user", "content": "Balayı?"}, {"role": "assistant", "content": "Balayı çiftlerine özel hizmetlerimiz var."}]}
+{"messages": [{"role": "user", "content": "Fiyat?"}, {"role": "assistant", "content": "Fiyatlar oda bazında, güncel bilgi için iletişime geçin."}]}
+{"messages": [{"role": "user", "content": "Temizlik?"}, {"role": "assistant", "content": "Her konaklama sonrası detaylı temizlik yapılıyor."}]}
+{"messages": [{"role": "user", "content": "Evcil hayvan?"}, {"role": "assistant", "content": "Evcil hayvan kabul ediliyor."}]}
+{"messages": [{"role": "user", "content": "Sigara?"}, {"role": "assistant", "content": "Kapalı alanda yasak, açık alanda serbest."}]}
+{"messages": [{"role": "user", "content": "Manzara?"}, {"role": "assistant", "content": "Orman ve vadi manzarası var."}]}
+{"messages": [{"role": "user", "content": "Klima?"}, {"role": "assistant", "content": "Odalarda klima mevcut."}]}
+{"messages": [{"role": "user", "content": "Rezervasyon?"}, {"role": "assistant", "content": "Rezervasyon için iletişime geçebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Akşam yemeği?"}, {"role": "assistant", "content": "Akşam yemeği servisi yok, barbekü veya dışarıdan sipariş mümkün."}]}
+{"messages": [{"role": "user", "content": "Mutfak?"}, {"role": "assistant", "content": "Amerikan tipi mutfak mevcut."}]}
+{"messages": [{"role": "user", "content": "Jakuzi?"}, {"role": "assistant", "content": "Her bungalovda jakuzi var."}]}
+{"messages": [{"role": "user", "content": "Oda kaç kişilik?"}, {"role": "assistant", "content": "Odalar iki kişilik."}]}
+{"messages": [{"role": "user", "content": "Giriş saati?"}, {"role": "assistant", "content": "Giriş 14:30'dan itibaren."}]}
+{"messages": [{"role": "user", "content": "Çıkış saati?"}, {"role": "assistant", "content": "Çıkış en geç 13:00."}]}
+{"messages": [{"role": "user", "content": "Netflix?"}, {"role": "assistant", "content": "Android TV ile Netflix izlenebilir."}]}
+{"messages": [{"role": "user", "content": "Havuz?"}, {"role": "assistant", "content": "Havuz bulunmamaktadır."}]}
+{"messages": [{"role": "user", "content": "Oda temizliği?"}, {"role": "assistant", "content": "Her çıkış sonrası temizlik yapılır."}]}
+{"messages": [{"role": "user", "content": "Ek yatak?"}, {"role": "assistant", "content": "Ek yatak talepleriniz için iletişime geçebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Plaj?"}, {"role": "assistant", "content": "Sahile yakın konumdayız."}]}
+{"messages": [{"role": "user", "content": "Ütü?"}, {"role": "assistant", "content": "Ütü talep üzerine sağlanır."}]}
+{"messages": [{"role": "user", "content": "Kettle?"}, {"role": "assistant", "content": "Kettle talep üzerine verilebilir."}]}
+{"messages": [{"role": "user", "content": "Fırın?"}, {"role": "assistant", "content": "Mutfakta fırın yok."}]}
+{"messages": [{"role": "user", "content": "Oda servisi?"}, {"role": "assistant", "content": "Oda servisi bulunmamaktadır."}]}
+{"messages": [{"role": "user", "content": "Şezlong?"}, {"role": "assistant", "content": "Plajda şezlong kiralanabilir."}]}
+{"messages": [{"role": "user", "content": "Oyun alanı?"}, {"role": "assistant", "content": "Bungalovumuzda geniş teras mevcuttur."}]}
+{"messages": [{"role": "user", "content": "Yatak tipi?"}, {"role": "assistant", "content": "Çift kişilik yatak mevcut."}]}
+{"messages": [{"role": "user", "content": "Market?"}, {"role": "assistant", "content": "Yakında market var."}]}
+{"messages": [{"role": "user", "content": "Minibüs?"}, {"role": "assistant", "content": "Ana yoldan minibüs geçiyor."}]}
+{"messages": [{"role": "user", "content": "Taksi?"}, {"role": "assistant", "content": "Taksi çağırılabilir."}]}
+{"messages": [{"role": "user", "content": "Oda servisi?"}, {"role": "assistant", "content": "Oda servisi yoktur."}]}
+{"messages": [{"role": "user", "content": "Oda büyüklüğü?"}, {"role": "assistant", "content": "Odalar 35 m2'dir."}]}
+{"messages": [{"role": "user", "content": "Bahçe?"}, {"role": "assistant", "content": "Geniş bahçe alanı var."}]}
+{"messages": [{"role": "user", "content": "Salıncak?"}, {"role": "assistant", "content": "Bahçede salıncak mevcut."}]}
+{"messages": [{"role": "user", "content": "İptal?"}, {"role": "assistant", "content": "İptal koşulları rezervasyonda belirtilir."}]}
+{"messages": [{"role": "user", "content": "Erken giriş?"}, {"role": "assistant", "content": "Müsaitlik durumunda erken giriş yapılabilir."}]}
+{"messages": [{"role": "user", "content": "Geç çıkış?"}, {"role": "assistant", "content": "Ek ücretle geç çıkış mümkün."}]}
+{"messages": [{"role": "user", "content": "Oda anahtarı?"}, {"role": "assistant", "content": "Girişte teslim edilir."}]}
+{"messages": [{"role": "user", "content": "Temassız giriş?"}, {"role": "assistant", "content": "Temassız giriş mümkündür."}]}
+{"messages": [{"role": "user", "content": "Otopark kapasitesi?"}, {"role": "assistant", "content": "20 araçlık otopark var."}]}
+{"messages": [{"role": "user", "content": "Çamaşır makinesi?"}, {"role": "assistant", "content": "Çamaşır makinesi yok."}]}
+{"messages": [{"role": "user", "content": "Bahçe mobilyası?"}, {"role": "assistant", "content": "Bahçede masa ve sandalye mevcut."}]}
+{"messages": [{"role": "user", "content": "Tesisinizde markete yakın mısınız?"}, {"role": "assistant", "content": "Evet, 5 dakikalık mesafede market bulunmaktadır."}]}
+{"messages": [{"role": "user", "content": "Tesisinizde huzurlu bir ortam var mı?"}, {"role": "assistant", "content": "Evet, doğa ile iç içe, sessiz ve sakin bir ortam sunuyoruz."}]}
+{"messages": [{"role": "user", "content": "Tesisinizde hangi manzara var?"}, {"role": "assistant", "content": "Tesisimizin etrafı ormanlarla çevrilidir. Yemyeşil bir vadi manzarası sunar, kuş sesleri eşliğinde çok huzurludur."}]}
+{"messages": [{"role": "user", "content": "Tesisinizde hangi ulaşım imkanları mevcut?"}, {"role": "assistant", "content": "Giresun-Keşap otoyol kenarında olduğumuz için ulaşım oldukça kolaydır."}]}
+{"messages": [{"role": "user", "content": "Tesisinizde kaç kişi konaklayabilir?"}, {"role": "assistant", "content": "İki kişilik konaklamalar için uygundur"}]}
+{"messages": [{"role": "user", "content": "Tesisinizde hangi temizlik standartları uygulanıyor?"}, {"role": "assistant", "content": "Her misafir sonrası detaylı temizlik yapılmaktadır. Hijyen önceliğimizdir."}]}
+{"messages": [{"role": "user", "content": "Tesisinizde hangi günlerde organizasyon yapılabiliyor?"}, {"role": "assistant", "content": "Tüm yıl boyunca, uygunluk durumuna göre organizasyon hizmeti verilmektedir. Detaylı bilgi için bizimle iletişime geçebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Tesisinizde mangal yapmak için kömür nereden alınır?"}, {"role": "assistant", "content": "Yakın çevredeki market ve kasaplar hakkında yol tarifi verebiliriz. Mangal ihtiyaçlarınızı buralardan karşılayabilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Tesisinizde mangal yapmak için rezervasyon gerekiyor mu?"}, {"role": "assistant", "content": "Barbekü alanı tüm misafirlerimizin kullanımına açıktır, rezervasyon gerekmemektedir."}]}
+{"messages": [{"role": "user", "content": "Tesisinizde mangal yaparken nelere dikkat edilmeli?"}, {"role": "assistant", "content": "Mangal yaparken güvenlik kurallarına uymanızı ve yangın riski oluşturmamaya dikkat etmenizi rica ederiz. Belirtilen mangal alanını kullanmanız gerekmektedir."}]}
+{"messages": [{"role": "user", "content": "Tesisinizde mangal alanı ne zaman kullanılabilir?"}, {"role": "assistant", "content": "Mangal alanımızı günün her saati kullanabilirsiniz. Akşam saatlerinde güvenlik kurallarına dikkat etmenizi rica ederiz."}]}
+{"messages": [{"role": "user", "content": "Tesisinizde mangal yapmak için ekstra ücret ödeniyor mu?"}, {"role": "assistant", "content": "Barbekü alanı tüm misafirlerimizin kullanımına açıktır ve ekstra ücret alınmamaktadır."}]}
+{"messages": [{"role": "user", "content": "Tesisinizde mangal yaparken kömür ve et sağlıyor musunuz?"}, {"role": "assistant", "content": "Mangal alanımız hazırdır, kömür ve mangal malzemelerini misafirlerimizin temin etmesi gerekmektedir."}]}
+{"messages": [{"role": "user", "content": "Tesisinizde mangal yapmak için hangi ekipmanlar var?"}, {"role": "assistant", "content": "Barbekü için gerekli temel ekipmanlar tesisimizde mevcuttur. Detaylı bilgi için bizimle iletişime geçebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Tesisinizde mangal alanı nerede?"}, {"role": "assistant", "content": "Tesisimizde mangal/barbekü için belirlenen özel alanımız bulunmaktadır. Doğayla iç içe keyifli vakit geçirebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Tesisinizde mangal için kömür sağlıyor musunuz?"}, {"role": "assistant", "content": "Mangal alanımız mevcuttur, ancak kömür ve yiyecek malzemelerini misafirlerimizin getirmesi gerekmektedir."}]}
+{"messages": [{"role": "user", "content": "Tesisinizde mangal kömürü var mı?"}, {"role": "assistant", "content": "Mangal alanımız hazırdır, kömür ve mangal malzemelerini misafirlerimizin temin etmesi gerekmektedir."}]}
+{"messages": [{"role": "user", "content": "Tesisinizde barbekü için malzeme sağlıyor musunuz?"}, {"role": "assistant", "content": "Özel Mangal alanı mevcuttur, fakat et, kömür ve diğer malzemeleri misafirlerimizin getirmesi gerekmektedir."}]}
+{"messages": [{"role": "user", "content": "Tesisinizde barbekü yapabilir miyiz?"}, {"role": "assistant", "content": "Evet, tesisimizde mangal/barbekü imkanı bulunmaktadır. Açık havada keyifli vakit geçirebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Tesisinizde mangal malzemelerini nereden alabiliriz?"}, {"role": "assistant", "content": "Yakın çevredeki market ve kasaplar hakkında yol tarifi verebiliriz. Mangal ihtiyaçlarınızı buralardan karşılayabilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Tesisinizde mangal yaparken dikkat etmemiz gereken şeyler var mı?"}, {"role": "assistant", "content": "Mangal yaparken güvenlik kurallarına uymanızı ve yangın riski oluşturmamaya dikkat etmenizi rica ederiz. Belirtilen mangal alanını kullanmanız gerekmektedir."}]}
+{"messages": [{"role": "user", "content": "Tesisinizde akşam mangal yapabilir miyiz?"}, {"role": "assistant", "content": "Evet, mangal alanımızı akşam saatlerinde de kullanabilirsiniz. Güvenlik kurallarına dikkat etmenizi rica ederiz."}]}
+{"messages": [{"role": "user", "content": "Organizasyon?"}, {"role": "assistant", "content": "İsteğiniz doğrultusunda özel organizasyonlar yapıyoruz. Detaylı bilgi için bizimle iletişime geçebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Doğum günü?"}, {"role": "assistant", "content": "Doğum günü kutlaması için süsleme yapılır. Detaylı bilgi için bizimle iletişime geçebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Kutlama yapılır mı?"}, {"role": "assistant", "content": "Evet, kutlamalar için uygun ortam var. Detaylı bilgi için bizimle iletişime geçebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Süsleme var mı?"}, {"role": "assistant", "content": "Oda ve masa süsleme hizmeti mevcut. Detaylı bilgi için bizimle iletişime geçebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Balayı organizasyonu?"}, {"role": "assistant", "content": "Balayı çiftlerine özel organizasyon yapılır. Detaylı bilgi için bizimle iletişime geçebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Yıldönümü?"}, {"role": "assistant", "content": "Yıldönümü için süsleme ve ikram sunulur. Detaylı bilgi için bizimle iletişime geçebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Oda süsleme?"}, {"role": "assistant", "content": "Oda süsleme talep üzerine yapılır. Detaylı bilgi için bizimle iletişime geçebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Kişiye özel organizasyon?"}, {"role": "assistant", "content": "Kişiye özel organizasyon hazırlayabiliriz. Detaylı bilgi için bizimle iletişime geçebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Sürpriz yapılır mı?"}, {"role": "assistant", "content": "Sürpriz organizasyonlar için yardımcı olabiliriz. Detaylı bilgi için bizimle iletişime geçebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Romantik akşam?"}, {"role": "assistant", "content": "Romantik akşam yemeği için masa süslemesi yapılır. Detaylı bilgi için bizimle iletişime geçebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Mum ışığı?"}, {"role": "assistant", "content": "Mum ışığında akşam yemeği hazırlanabilir. Detaylı bilgi için bizimle iletişime geçebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Balon süsleme?"}, {"role": "assistant", "content": "Balon süsleme hizmetimiz var. Detaylı bilgi için bizimle iletişime geçebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Pasta?"}, {"role": "assistant", "content": "Doğum günü pastası temin edilebilir. Detaylı bilgi için bizimle iletişime geçebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Süsleme fiyatı?"}, {"role": "assistant", "content": "Süsleme fiyatları için bizimle iletişime geçebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Süsleme seçenekleri?"}, {"role": "assistant", "content": "Farklı süsleme konseptleri sunuyoruz."}]}
+{"messages": [{"role": "user", "content": "Balayı paketi?"}, {"role": "assistant", "content": "Balayı çiftlerine özel paketlerimiz var."}]}
+{"messages": [{"role": "user", "content": "Fotoğraf çekimi?"}, {"role": "assistant", "content": "Organizasyonlarda fotoğraf çekimi yapılabilir."}]}
+{"messages": [{"role": "user", "content": "Süsleme ne zaman yapılır?"}, {"role": "assistant", "content": "Süslemeler misafir gelmeden önce hazırlanır."}]}
+{"messages": [{"role": "user", "content": "Süsleme iptal edilebilir mi?"}, {"role": "assistant", "content": "Süsleme iptali için önceden bilgi vermeniz yeterli."}]}
+{"messages": [{"role": "user", "content": "Organizasyon süresi?"}, {"role": "assistant", "content": "Organizasyon süresi talebe göre değişir."}]}
+{"messages": [{"role": "user", "content": "Dışarıdan organizasyoncu getirebilir miyiz?"}, {"role": "assistant", "content": "Dışarıdan organizasyon hizmeti kabul edilir."}]}
+{"messages": [{"role": "user", "content": "Romantik oda?"}, {"role": "assistant", "content": "Romantik oda süslemesi yapılır."}]}
+{"messages": [{"role": "user", "content": "Süsleme dahil mi?"}, {"role": "assistant", "content": "Bazı paketlerde süsleme dahildir."}]}
+{"messages": [{"role": "user", "content": "Süsleme için kaç gün önceden haber vermeli?"}, {"role": "assistant", "content": "En az 2 gün önceden bildirilmesi önerilir."}]}
+{"messages": [{"role": "user", "content": "Balayı sürprizi?"}, {"role": "assistant", "content": "Balayı çiftlerine sürpriz hediyeler sunuluyor."}]}
+{"messages": [{"role": "user", "content": "Organizasyon saatleri?"}, {"role": "assistant", "content": "Organizasyonlar için saat sınırlaması yok."}]}
+{"messages": [{"role": "user", "content": "Organizasyon için ekstra ücret?"}, {"role": "assistant", "content": "Organizasyonlar için ek ücret alınabilir."}]}
+{"messages": [{"role": "user", "content": "Balon süsleme ücreti?"}, {"role": "assistant", "content": "Balon süsleme fiyatı için iletişime geçin."}]}
+{"messages": [{"role": "user", "content": "Süsleme örnekleri?"}, {"role": "assistant", "content": "Önceki organizasyonlardan fotoğraf paylaşabiliriz."}]}
+{"messages": [{"role": "user", "content": "Çiçek süsleme?"}, {"role": "assistant", "content": "Çiçek süsleme talep üzerine yapılır."}]}
+{"messages": [{"role": "user", "content": "Kişiye özel pasta?"}, {"role": "assistant", "content": "Kişiye özel pasta siparişi verilebilir."}]}
+{"messages": [{"role": "user", "content": "Mangal?"}, {"role": "assistant", "content": "Evet, tesisimizde mangal/barbekü yapmak için özel alan bulunmaktadır. Doğayla iç içe mangal keyfi yaşayabilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Nasılsınız?"}, {"role": "assistant", "content": "Teşekkürler, iyiyim. Size nasıl yardımcı olabilirim?"}]}
+{"messages": [{"role": "user", "content": "İyiyim"}, {"role": "assistant", "content": "Sevindim, size nasıl yardımcı olabilirim?"}]}
+{"messages": [{"role": "user", "content": "Teşekkürler"}, {"role": "assistant", "content": "Rica ederim, başka bir sorunuz var mı?"}]}
+{"messages": [{"role": "user", "content": "Merhaba"}, {"role": "assistant", "content": "Merhaba! Size nasıl yardımcı olabilirim?"}]}
+{"messages": [{"role": "user", "content": "Hoşça kal"}, {"role": "assistant", "content": "Görüşmek üzere, iyi günler dilerim."}]}
+{"messages": [{"role": "user", "content": "Size nasıl yardımcı olabilirim?"}, {"role": "assistant", "content": "Her türlü sorunuz için buradayım."}]}
+{"messages": [{"role": "user", "content": "Günaydın"}, {"role": "assistant", "content": "Günaydın! Size nasıl yardımcı olabilirim?"}]}
+{"messages": [{"role": "user", "content": "İyi akşamlar"}, {"role": "assistant", "content": "İyi akşamlar, yardımcı olabileceğim bir konu var mı?"}]}
+{"messages": [{"role": "user", "content": "Kolay gelsin"}, {"role": "assistant", "content": "Teşekkürler, size nasıl yardımcı olabilirim?"}]}
+{"messages": [{"role": "user", "content": "Selam"}, {"role": "assistant", "content": "Selam! Size nasıl yardımcı olabilirim?"}]}
+{"messages": [{"role": "user", "content": "Memnun oldum"}, {"role": "assistant", "content": "Ben de memnun oldum!"}]}
+{"messages": [{"role": "user", "content": "Rica ederim"}, {"role": "assistant", "content": "Ne demek, yardımcı olabildiysem ne mutlu bana."}]}
+{"messages": [{"role": "user", "content": "Görüşmek üzere"}, {"role": "assistant", "content": "Tekrar görüşmek dileğiyle, iyi günler!"}]}
+{"messages": [{"role": "user", "content": "İyi günler"}, {"role": "assistant", "content": "Size de iyi günler dilerim."}]}
+{"messages": [{"role": "user", "content": "Hoş geldiniz"}, {"role": "assistant", "content": "Hoş bulduk, size nasıl yardımcı olabilirim?"}]}
+{"messages": [{"role": "user", "content": "Selamlar"}, {"role": "assistant", "content": "Selamlar! Size nasıl yardımcı olabilirim?"}]}
+{"messages": [{"role": "user", "content": "İyi misiniz?"}, {"role": "assistant", "content": "İyiyim, teşekkürler. Siz nasılsınız?"}]}
+{"messages": [{"role": "user", "content": "Hayırlı işler"}, {"role": "assistant", "content": "Teşekkürler, size nasıl yardımcı olabilirim?"}]}
+{"messages": [{"role": "user", "content": "Teşekkür ederim"}, {"role": "assistant", "content": "Rica ederim, her zaman yardımcı olmaktan memnuniyet duyarım."}]}
+{"messages": [{"role": "user", "content": "Sağ olun"}, {"role": "assistant", "content": "Ne demek, size yardımcı olabildiysem ne mutlu bana."}]}
+{"messages": [{"role": "user", "content": "İyi tatiller"}, {"role": "assistant", "content": "Size de iyi tatiller dilerim!"}]}
+{"messages": [{"role": "user", "content": "Hoş bulduk"}, {"role": "assistant", "content": "Hoş geldiniz, nasıl yardımcı olabilirim?"}]}
+{"messages": [{"role": "user", "content": "Görüşmek dileğiyle"}, {"role": "assistant", "content": "Görüşmek üzere, iyi günler!"}]}
+{"messages": [{"role": "user", "content": "Sizi tanıyabilir miyim?"}, {"role": "assistant", "content": "Ben bir sohbet asistanıyım, size yardımcı olmak için buradayım."}]}
+{"messages": [{"role": "user", "content": "Yardım eder misiniz?"}, {"role": "assistant", "content": "Elbette, sormak istediğiniz bir şey var mı?"}]}
+{"messages": [{"role": "user", "content": "Yardım lütfen"}, {"role": "assistant", "content": "Tabii, nasıl yardımcı olabilirim?"}]}
+{"messages": [{"role": "user", "content": "Özür dilerim"}, {"role": "assistant", "content": "Sorun değil, nasıl yardımcı olabilirim?"}]}
+{"messages": [{"role": "user", "content": "İyi akşamlar dilerim"}, {"role": "assistant", "content": "Size de iyi akşamlar!"}]}
+{"messages": [{"role": "user", "content": "İyi geceler"}, {"role": "assistant", "content": "İyi geceler, güzel bir uyku dilerim."}]}
+{"messages": [{"role": "user", "content": "Sizi rahatsız ettim mi?"}, {"role": "assistant", "content": "Hayır, her zaman yardımcı olmaktan memnuniyet duyarım."}]}
+{"messages": [{"role": "user", "content": "Sohbet edelim mi?"}, {"role": "assistant", "content": "Tabii, sizinle sohbet etmekten memnuniyet duyarım."}]}
+{"messages": [{"role": "user", "content": "Ne yapıyorsun?"}, {"role": "assistant", "content": "Size yardımcı olmak için buradayım."}]}
+{"messages": [{"role": "user", "content": "Nasılsın bot?"}, {"role": "assistant", "content": "İyiyim, teşekkürler! Siz nasılsınız?"}]}
+{"messages": [{"role": "user", "content": "Sizinle konuşmak güzel"}, {"role": "assistant", "content": "Benim için de güzel, teşekkür ederim."}]}
+{"messages": [{"role": "user", "content": "Hoş bir gün dilerim"}, {"role": "assistant", "content": "Size de hoş bir gün dilerim!"}]}
+{"messages": [{"role": "user", "content": "İyi sohbetler"}, {"role": "assistant", "content": "Size de iyi sohbetler!"}]}
+{"messages": [{"role": "user", "content": "Yardımcı olabilir misin?"}, {"role": "assistant", "content": "Elbette, sormak istediğiniz bir konu var mı?"}]}
+{"messages": [{"role": "user", "content": "Teşekkürler bot"}, {"role": "assistant", "content": "Rica ederim, her zaman buradayım."}]}
+{"messages": [{"role": "user", "content": "Sizi dinliyorum"}, {"role": "assistant", "content": "Sormak istediğiniz bir şey varsa yanıtlamaktan memnuniyet duyarım."}]}
+{"messages": [{"role": "user", "content": "İyi çalışmalar"}, {"role": "assistant", "content": "Teşekkürler, size de iyi çalışmalar!"}]}
+{"messages": [{"role": "user", "content": "Bot musun?"}, {"role": "assistant", "content": "Evet, ben bir sohbet asistanıyım."}]}
+{"messages": [{"role": "user", "content": "Sizi kim geliştirdi?"}, {"role": "assistant", "content": "Ben bir yapay zeka sohbet asistanıyım ve size yardımcı olmak için tasarlandım."}]}
+{"messages": [{"role": "user", "content": "Sohbet başlat"}, {"role": "assistant", "content": "Tabii, size nasıl yardımcı olabilirim?"}]}
+{"messages": [{"role": "user", "content": "Mangal yapabilmemiz için alan mevcut mu"}, {"role": "assistant", "content": "Evet, tesisimizde misafirlerin kullanımına açık barbekü alanı vardır. Izgara araç-gereçlerini biz sağlıyoruz, kömür ya da odun kendiniz getirebilirsiniz.?"}]}
+{"messages": [{"role": "user", "content": "Havlu, şampuan gibi şeyler var mı?"}, {"role": "assistant", "content": "Evet, bungalovlarımızda temel ihtiyaçlar düşünülmüştür. Her konuk için temiz havlu, şampuan ve sabun gibi banyo malzemeleri hazır olarak sunulmaktadır. Dilerseniz ekstra ihtiyaçlarınız için bizimle iletişime geçebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Fiyata dahil olmayan ek ücretler var mı?"}, {"role": "assistant", "content": "Rezervasyon aşamasında belirtilen fiyatlarımıza ek olarak sürpriz ek ücret bulunmamaktadır. Tüm detaylar rezervasyonunuzda açıkça belirtilir."}]}
+{"messages": [{"role": "user", "content": "Mutfakta hangi eşyalar mevcut? (Tencere, tava, tabak vb.)"}, {"role": "assistant", "content": "Amerikan mutfağımızda yemek hazırlayabilmeniz için tencere, tava, tabak, çatal, bıçak gibi temel mutfak gereçleri ve bardaklar mevcuttur."}]}
+{"messages": [{"role": "user", "content": "Banyoda şampuan, sabun gibi temel malzemeler var mı?"}, {"role": "assistant", "content": "Evet, banyolarımızda misafirlerimizin konforu için şampuan, duş jeli ve sabun gibi temel kişisel bakım ürünleri bulunmaktadır."}]}
+{"messages": [{"role": "user", "content": "Saç kurutma makinesi var mı?"}, {"role": "assistant", "content": "Evet, her bungalovumuzda saç kurutma makinesi mevcuttur."}]}
+{"messages": [{"role": "user", "content": "Kahve makinesi veya çaycı bulunuyor mu?"}, {"role": "assistant", "content": "Evet, misafirlerimizin kullanımı için her bungalovda bir kahve makinesi ve çaycı bulunmaktadır."}]}
+{"messages": [{"role": "user", "content": "Odalarda priz yeterli mi?"}, {"role": "assistant", "content": "Odalarımızda kişisel cihazlarınızı rahatlıkla şarj edebilmeniz için yeterli sayıda elektrik prizi mevcuttur."}]}
+{"messages": [{"role": "user", "content": "Yorgan, battaniye gibi ekstra şeyler mevcut mu?"}, {"role": "assistant", "content": "Evet, standart olarak temiz nevresim takımları ve yorganlar sağlanmaktadır. İhtiyaç duymanız halinde ek battaniye temin edebiliriz, lütfen resepsiyondan talep ediniz."}]}
+{"messages": [{"role": "user", "content": "Televizyon akıllı TV mi?"}, {"role": "assistant", "content": "Evet, bungalovlarımızdaki televizyonlar akıllı TV'dir. Netflix ve YouTube gibi uygulamalara kolayca erişebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Dışarıda oturma alanı, masa/sandalye mevcut mu?"}, {"role": "assistant", "content": "Evet, her bungalovun önünde size özel bir veranda veya teras bulunmaktadır. Burada rahatça oturabileceğiniz masa ve sandalyeler mevcuttur."}]}
+{"messages": [{"role": "user", "content": "Yakınlardaki restoranların telefon numaraları/menüleri var mı?"}, {"role": "assistant", "content": "Evet, yakın çevredeki popüler restoranlar hakkında bilgilerimiz bulunmaktadır. Konaklamanız sırasında bize danışarak detaylı bilgi ve iletişim numaralarına ulaşabilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Televizyon akıllı TV mi?"}, {"role": "assistant", "content": "Evet, bungalovlarımızdaki televizyonlar akıllı TV'dir. Netflix ve YouTube gibi uygulamalara kolayca erişebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Ödeme nasıl yapılıyor?"}, {"role": "assistant", "content": "Giriş esnasında ödeme işlemlerinizi yapabilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Kapora alıyor musunuz?"}, {"role": "assistant", "content": "Evet, konaklama ücretinin %25'ini kapora olarak alıyoruz."}]}
+{"messages": [{"role": "user", "content": "Ocak var mı?"}, {"role": "assistant", "content": "Maalesef bungalovlarımızda yemek pişirme ocakları bulunmamaktadır. Ancak mini buzdolabı ve temel mutfak gereçleri mevcuttur. Dilerseniz barbekü alanımızı kullanabilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Yemek yapabileceğimiz ocak var mı?"}, {"role": "assistant", "content": "Maalesef bungalovlarımızda yemek pişirme ocakları bulunmamaktadır. Ancak mini buzdolabı ve temel mutfak gereçleri mevcuttur. Dilerseniz barbekü alanımızı kullanabilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Kimliksiz girebilir miyiz?"}, {"role": "assistant", "content": "Konaklama mevzuatı gereği, tüm misafirlerimizin geçerli bir kimlik belgesi (nüfus cüzdanı, ehliyet veya pasaport) ile giriş yapması zorunludur. Kimlik ibrazı olmadan maalesef giriş yapılamamaktadır."}]}
+{"messages": [{"role": "user", "content": "Evlilik cüzdanı olmadan girebilir miyiz?"}, {"role": "assistant", "content": "Tesisimize giriş için evlilik cüzdanı ibraz etmeniz gerekmemektedir. Geçerli bir kimlik belgesi (nüfus cüzdanı, ehliyet veya pasaport) ile giriş yapmanız yeterlidir."}]}
+{"messages": [{"role": "user", "content": "Mutfakta neler var?"}, {"role": "assistant", "content": "Mutfakta buzdolabı, çaycı, kahve makinesi ve temel mutfak gereçleri bulunmaktadır. (Yemek pişirme ocağı maalesef mevcut değildir) Dilerseniz tesisimizdeki barbekü alanını kullanabilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Sabah gelip akşam dönmeyi planlıyoruz. Bu şekilde hizmetiniz var mı?"}, {"role": "assistant", "content": "Evet, günübirlik konaklama hizmetimiz bulunmaktadır. Detaylar ve fiyatlandırma için lütfen bizimle iletişime geçiniz."}]}
+{"messages": [{"role": "user", "content": "Bungalov fiyatınız nedir?"},{"role": "assistant", "content": "Fiyatlarımız mevsime ve konaklama tarihlerine göre farklılık gösterebilir. Güncel fiyat bilgisi ve rezervasyon için instagram sayfamızı ziyaret edebilir veya iletişim numaralarımızdan bize ulaşabilirsiniz."}]}
+{"messages": [{"role": "user", "content": "3 gecelik konaklama kaç TL?"},{"role": "assistant", "content": "Fiyatlarımız mevsime ve konaklama tarihlerine göre farklılık gösterebilir.. Kesin fiyat bilgisi için lütfen bize doğrudan ulaşın."}]}
+{"messages": [{"role": "user", "content": "Kahvaltıda neler var?"}, {"role": "assistant", "content": "Kahvaltımız açık büfe olarak sunulmaktadır. Çeşitli peynirler, zeytinler, şarküteri ürünleri, taze ekmekler, reçeller, bal, yumurta çeşitleri, mevsim yeşillikleri ve sıcak içecekler gibi zengin seçenekler bulunmaktadır."}]}
+{"messages": [{"role": "user", "content": "Yarın için müsaitlik var mı?"}, {"role": "assistant", "content": "Maalesef müsaitlik durumunu görüntüleyemiyorum. Bizimle iletişime geçerek detaylı bilgi alabilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Banyoda saç kurutma makinesi var mı?"}, {"role": "assistant", "content": "Evet, banyoda saç kurutma makinesi bulunmaktadır."}]}
+{"messages": [{"role": "user", "content": "Saçımı kurutabileceğim bir makine mevcut mu?"}, {"role": "assistant", "content": "Evet, banyoda saç kurutma makinesi bulunmaktadır."}]}
+{"messages": [{"role": "user", "content": "Banyoda saç kurutma makinesi mevcut mu?"}, {"role": "assistant", "content": "Evet, banyoda saç kurutma makinesi bulunmaktadır."}]}
+{"messages": [{"role": "user", "content": "Odalarda kasa var mı?"}, {"role": "assistant", "content": "Evet, her odada kasa mevcuttur."}]}
+{"messages": [{"role": "user", "content": "Değerli eşyalarımı koyabileceğim kasa var mı?"}, {"role": "assistant", "content": "Evet, her odada elektronik kasa mevcuttur."}]}
+{"messages": [{"role": "user", "content": "Eşya kasası mevcut mu?"}, {"role": "assistant", "content": "Evet, her odada elektronik kasa mevcuttur."}]}
+{"messages": [{"role": "user", "content": "24 saat resepsiyon hizmetiniz var mı?"}, {"role": "assistant", "content": "Evet, 7/24 kesintisiz resepsiyon hizmetimiz mevcuttur."}]}
+{"messages": [{"role": "user", "content": "Gece geç saatlerde de ulaşabileceğim bir görevli var mı?"}, {"role": "assistant", "content": "Evet, 7/24 kesintisiz resepsiyon hizmetimiz mevcuttur."}]}
+{"messages": [{"role": "user", "content": "Gece yarısı da giriş yapabilir miyiz?"}, {"role": "assistant", "content": "Evet, 7/24 kesintisiz resepsiyon hizmetimiz olduğu için gece geç saatlerde de giriş yapabilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Çamaşırhane hizmetiniz var mı?"}, {"role": "assistant", "content": "Maalesef, çamaşırhane hizmetimiz yoktur."}]}
+{"messages": [{"role": "user", "content": "Kıyafetlerimizi yıkayabileceğimiz bir yer var mı?"}, {"role": "assistant", "content": "Maalesef, çamaşırhane hizmetimiz yoktur."}]}
+{"messages": [{"role": "user", "content": "Çamaşır yıkama imkanı sunuyor musunuz?"}, {"role": "assistant", "content": "Maalesef, çamaşırhane hizmetimiz yoktur."}]}
+{"messages": [{"role": "user", "content": "Vejetaryen/vegan seçenekleriniz var mı?"}, {"role": "assistant", "content": "Evet, önceden bilgi verilmesi şartıyla vejetaryen ve vegan menü seçenekleri sunabiliriz."}]}
+{"messages": [{"role": "user", "content": "Glutensiz yemek alternatifiniz var mı?"}, {"role": "assistant", "content": "Evet, önceden bilgi verilmesi şartıyla glutensiz menü seçenekleri sunabiliriz."}]}
+{"messages": [{"role": "user", "content": "Doğum günü pastası siparişi verebilir miyiz?"}, {"role": "assistant", "content": "Evet, önceden bilgi verilmesi koşuluyla doğum günü pastası siparişi verebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Özel günler için pasta temin edebilir misiniz?"}, {"role": "assistant", "content": "Evet, önceden bilgi verilmesi koşuluyla özel günler için pasta temin edebiliriz."}]}
+{"messages": [{"role": "user", "content": "Sürpriz doğum günü pastası ayarlayabilir miyiz?"}, {"role": "assistant", "content": "Evet, önceden bilgi verilmesi koşuluyla sürpriz doğum günü pastası hazırlayabiliriz."}]}
+{"messages": [{"role": "user", "content": "Erken check-in yapabilir miyiz?"}, {"role": "assistant", "content": "Erken check-in oda müsaitliğine bağlıdır. Lütfen gelmeden önce bizi arayarak kontrol ediniz."}]}
+{"messages": [{"role": "user", "content": "Sabah erken saatte giriş yapabilir miyiz?"}, {"role": "assistant", "content": "Erken check-in oda müsaitliğine bağlıdır. Lütfen gelmeden önce bizi arayarak kontrol ediniz."}]}
+{"messages": [{"role": "user", "content": "Saat 12'den önce giriş yapabilir miyiz?"}, {"role": "assistant", "content": "Erken check-in oda müsaitliğine bağlıdır. Lütfen gelmeden önce bizi arayarak kontrol ediniz."}]}
+{"messages": [{"role": "user", "content": "Havaalanı transfer hizmetiniz var mı?"}, {"role": "assistant", "content": "Maalesef, transfer hizmeti sunmamaktayız."}]}
+{"messages": [{"role": "user", "content": "Havalimanından transfer yapıyor musunuz?"}, {"role": "assistant", "content": "Maalesef, transfer hizmeti sunmamaktayız."}]}
+{"messages": [{"role": "user", "content": "Havaalanına araç gönderebiliyor musunuz?"}, {"role": "assistant", "content": "Maalesef, transfer hizmeti sunmamaktayız."}]}
+{"messages": [{"role": "user", "content": "Engelli misafirler için özel düzenlemeniz var mı?"}, {"role": "assistant", "content": "Evet, engelli misafirlerimiz için uygun rampalar ve geniş geçiş alanları bulunmaktadır."}]}
+{"messages": [{"role": "user", "content": "Tekerlekli sandalye erişimi mevcut mu?"}, {"role": "assistant", "content": "Evet, engelli misafirlerimiz için uygun rampalar ve geniş geçiş alanları bulunmaktadır."}]}
+{"messages": [{"role": "user", "content": "Engelli banyosu var mı?"}, {"role": "assistant", "content": "Evet, engelli misafirlerimiz için özel tasarlanmış banyo ünitelerimiz mevcuttur."}]}
+{"messages": [{"role": "user", "content": "Bebek karyolası temin edebilir misiniz?"}, {"role": "assistant", "content": "Evet, önceden bilgi verilmesi durumunda ücretsiz bebek karyolası temin edebiliriz."}]}
+{"messages": [{"role": "user", "content": "Bebek yatağı var mı?"}, {"role": "assistant", "content": "Evet, önceden bilgi verilmesi durumunda ücretsiz bebek karyolası temin edebiliriz."}]}
+{"messages": [{"role": "user", "content": "Küçük çocuğum için ekstra yatak koyabilir misiniz?"}, {"role": "assistant", "content": "Evet, önceden bilgi verilmesi durumunda bebek karyolası veya ekstra yatak temin edebiliriz."}]}
+{"messages": [{"role": "user", "content": "Kışın nasıl ısınıyor?"}, {"role": "assistant", "content": "Bungalovlarımızda klima ile ısıtma sistemi mevcuttur. Ayrıca yalıtımlı yapıları sayesinde sıcaklık korunmaktadır."}]}
+{"messages": [{"role": "user", "content": "Sobalı mı kaloriferli mi?"}, {"role": "assistant", "content": "Bungalovlarımızda klima ile ısıtma sistemi mevcuttur."}]}
+{"messages": [{"role": "user", "content": "Kışın soğuk oluyor mu?"}, {"role": "assistant", "content": "Hayır, bungalovlarımız yalıtımlıdır ve klima ile ısıtma sistemi sayesinde kışın da konforlu bir sıcaklık sağlanmaktadır."}]}
+{"messages": [{"role": "user", "content": "Tesis güvenli mi?"}, {"role": "assistant", "content": "Evet, güvenlik görevlilerimizle hizmet vermekteyiz."}]}
+{"messages": [{"role": "user", "content": "Gece güvenlik var mı?"}, {"role": "assistant", "content": "Evet, 24 saat güvenlik hizmetimiz mevcuttur."}]}
+{"messages": [{"role": "user", "content": "Oda kahvaltı seçeneğiniz var mı?"}, {"role": "assistant", "content": "Maalesef, kahvaltıyı Otelimizden açık büfe şeklinde temin edebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Kahvaltıyı oda servisi ile alabilir miyiz?"}, {"role": "assistant", "content": "Maalesef, kahvaltıyı Otelimizden açık büfe şeklinde temin edebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "Kahvaltıyı odamızda yiyebilir miyiz?"}, {"role": "assistant", "content": "Maalesef, kahvaltıyı Otelimizden açık büfe şeklinde temin edebilirsiniz."}]}
+{"messages": [{"role": "user", "content": "USB şarj prizi var mı?"}, {"role": "assistant", "content": "Evet, odalarda USB çıkışlı şarj prizleri mevcuttur."}]}
+{"messages": [{"role": "user", "content": "Telefon şarj etmek için uygun priz var mı?"}, {"role": "assistant", "content": "Evet, odalarda USB çıkışlı şarj prizleri mevcuttur."}]}
+{"messages": [{"role": "user", "content": "Yatak başında şarj prizi var mı?"}, {"role": "assistant", "content": "Evet, yatak başında şarj prizleri ve USB çıkışları mevcuttur."}]}
+{"messages": [{"role": "user", "content": "Acile en yakın hastane nerede?"}, {"role": "assistant", "content": "En yakın hastane 5 dakika mesafededir. Acil durumlarda bize bildirmeniz halinde yardımcı oluruz."}]}
+{"messages": [{"role": "user", "content": "Sağlık ocağı var mı yakında?"}, {"role": "assistant", "content": "En yakın sağlık ocağı 10 dakika mesafededir. Acil durumlarda bize bildirmeniz halinde yardımcı oluruz."}]}
+{"messages": [{"role": "user", "content": "Acil durumda ne yapmalıyız?"}, {"role": "assistant", "content": "Acil durumlarda lütfen hemen resepsiyonu arayın. Size en hızlı şekilde yardımcı olacağız ve gerekirse en yakın sağlık kuruluşuna yönlendireceğiz."}]}
