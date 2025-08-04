@@ -28,5 +28,7 @@ Frontend: React, MUI
 
 
 Base Model: ytu-ce-cosmos/Turkish-Gemma-9b-v0.1
+
+
 Hugging Face: oguzkyilmaz/Asteria-Bungalov-Gemma-9B
 
