@@ -35,5 +35,5 @@ Asteria Bungalov için özel olarak tasarlanmış, Türkçe konuşabilen bir yap
   
 
 
-'oguzkyilmaz/Asteria-Bungalov-Gemma-9B'
+`huggingface.co/oguzkyilmaz/Asteria-Bungalov-Gemma-9B`
 
