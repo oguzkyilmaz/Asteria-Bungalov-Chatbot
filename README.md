@@ -21,19 +21,18 @@ Asteria Bungalov için özel olarak tasarlanmış, Türkçe konuşabilen bir yap
 - Modelin Supervised Fine-Tuning ile özel bir veri seti üzerinde eğitilmesi sayesinde, genelleme yeteneği bilerek daraltılmıştır. Böylece model, kendisine sorulan soruları, eğitildiği özel verilerdeki kalıplara göre yanıtlamayı öğrenerek Asteria Bungalov'a özel konularda kesin ve güvenilir bilgiler sunacak şekilde özelleştirilmiştir.
 
 # Teknolojiler
-- Temel Model: ytu-ce-cosmos/Turkish-Gemma-9b-v0.1
+* Temel Model: 'ytu-ce-cosmos/Turkish-Gemma-9b-v0.1'
 
-- İnce Ayar Yöntemi: LoRA
+* İnce Ayar Yöntemi: LoRA
 
-- Kullanılan Kütüphaneler: bitsandbytes, transformers, peft
+* Kullanılan Kütüphaneler: bitsandbytes, transformers, peft
 
-- Eğitim Ortamı: Google Colab
+* Eğitim Ortamı: Google Colab
 
-- Frontend: React, MUI
+* Frontend: React, MUI
+* 
+* **Model Reposu:** `oguzkyilmaz/Asteria-Bungalov-Gemma-9B`
 
 
-# Base Model: ytu-ce-cosmos/Turkish-Gemma-9b-v0.1
-
-
-# Hugging Face: oguzkyilmaz/Asteria-Bungalov-Gemma-9B
+# Model Repo: oguzkyilmaz/Asteria-Bungalov-Gemma-9B
 
