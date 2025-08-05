@@ -1,39 +1,42 @@
-# **Asteria Bungalov Yapay Zekâ Sohbet Asistanı**
+# **Asteria Bungalow AI Chatbot**
 
+An AI chatbot specifically designed for Asteria Bungalow, capable of speaking Turkish. It is built on a language model that provides specific and accurate answers, aiming to automate customer service.
 
-Asteria Bungalov için özel olarak tasarlanmış, Türkçe konuşabilen bir yapay zekâ sohbet asistanıdır. Müşteri hizmetlerini otomatize etmek amacıyla, spesifik ve doğru cevaplar verebilen bir dil modeli üzerine inşa edilmiştir.
 
 <img width="1901" height="888" alt="Ekran görüntüsü 2025-08-04 233029" src="https://github.com/user-attachments/assets/a57b86ba-fa4f-4302-ac13-5c50adb26b1c" />
 
 
-# Temel Özellikleri
-- **Veri Odaklı Eğitim:** Gerçek müşteri verilerinden oluşturulan 700'den fazla soru-cevap çifti ile eğitildi.
+---
 
-- **Supervised Fine-Tuning (LoRA):** Açık kaynak bir temel model olan ytu-ce-cosmos/Turkish-Gemma-9b-v0.1 üzerinde LoRA yöntemiyle ince ayar yapıldı.
+# **Key Features**
+- **Data-Driven Training:** Trained with over 700 question-answer pairs created from real customer data.
 
-- **Güvenilirlik ve Tutarlılık:** Genelleme yeteneğinden ziyade, bağlama uygun, kısa ve net yanıtlar vermesi hedeflendi.
+- **Supervised Fine-Tuning (LoRA):** Fine-tuned using the LoRA method on an open-source base model, ytu-ce-cosmos/Turkish-Gemma-9b-v0.1.
 
-- **Tamamen Türkçe:** Türkçe dilinde sorunsuz bir şekilde çalışacak şekilde optimize edildi.
+- **Reliability and Consistency:** The goal was to provide short, clear, and context-appropriate answers rather than focusing on generalization ability.
 
-# Modelin Cevap Stratejisi
-- Bir işletme için geliştirilen özel bir yapay zekâ asistanında, genel amaçlı bir dil modelinin rastgele yaratıcı cevaplar vermesi yerine, güvenilir ve kesin bilgiler sunması esastır.
+- **Fully Turkish:** Optimized to work seamlessly in the Turkish language.
 
-- Modelin Supervised Fine-Tuning ile özel bir veri seti üzerinde eğitilmesi sayesinde, genelleme yeteneği bilerek daraltılmıştır. Böylece model, kendisine sorulan soruları, eğitildiği özel verilerdeki kalıplara göre yanıtlamayı öğrenerek Asteria Bungalov'a özel konularda kesin ve güvenilir bilgiler sunacak şekilde özelleştirilmiştir.
+---
 
-# Teknolojiler
-* Temel Model: `ytu-ce-cosmos/Turkish-Gemma-9b-v0.1`
+# **Model's Answering Strategy**
+- For a custom-developed AI assistant for a business, it is essential to provide reliable and definitive information rather than random, creative answers from a general-purpose language model.
 
-* Model Reposu: `oguzkyilmaz/Asteria-Bungalov-Gemma-9B`
+- By training the model with Supervised Fine-Tuning on a specific dataset, its generalization ability was deliberately narrowed. This allows the model to learn to answer questions according to the patterns in its specialized training data, thereby providing accurate and reliable information on topics specific to Asteria Bungalow.
 
-* İnce Ayar Yöntemi: LoRA
+---
 
-* Kullanılan Kütüphaneler: bitsandbytes, transformers, peft
+# **Technologies**
+* Base Model: `ytu-ce-cosmos/Turkish-Gemma-9b-v0.1`
 
-* Eğitim Ortamı: Google Colab
+* Model Repo: `oguzkyilmaz/Asteria-Bungalov-Gemma-9B`
+
+* Fine-Tuning Method: LoRA
+
+* Libraries Used: bitsandbytes, transformers, peft
+
+* Training Environment: Google Colab
 
 * Frontend: React, MUI
-  
-
 
 `huggingface.co/oguzkyilmaz/Asteria-Bungalov-Gemma-9B`
-
