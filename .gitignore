@@ -94,3 +94,5 @@ jspm_packages/
 
 # Yarn Integrity file
 .yarn-integrity
+BungalovChat/model/main-gemma.ipynb
+BungalovChat/model/response-gemma.ipynb
