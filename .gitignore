@@ -32,12 +32,6 @@ ENV/
 .ipynb_checkpoints/
 model/diger/*.ipynb
 diger/*.ipynb
-*.ipynb
-!model/main-gemma.ipynb
-!model/response-gemma.ipynb
-!model/gemma-main.ipynb
-!model/response.ipynb
-!run.ipynb
 
 # Model dosyaları ve klasörleri
 model/embeddings.pkl
