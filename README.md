@@ -9,7 +9,7 @@ An AI chatbot specifically designed for Asteria Bungalow, capable of speaking Tu
 ---
 
 # **Key Features**
-- **Data-Driven Training:** Trained with over 700 question-answer pairs created from real customer data.
+- **Data-Driven Training:** Trained with over 750+ question-answer pairs that I developed using real customer data.
 
 - **Supervised Fine-Tuning (LoRA):** Fine-tuned using the LoRA method on an open-source base model, ytu-ce-cosmos/Turkish-Gemma-9b-v0.1.
 
