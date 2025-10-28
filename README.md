@@ -3,7 +3,7 @@
 An AI chatbot specifically designed for Asteria Bungalow, capable of speaking Turkish. It is built on a language model that provides specific and accurate answers, aiming to automate customer service.
 
 
-Paraphrase Testi, Hatalı Text / Yazım Bozukluğu Testi, Uzun ve Karmaşık Cümle Testi, Birden Çok Soru İçeren Promptlar, Mantıksal Tutarlılık Testi:
+**Paraphrase Test, Typo / Misspelled Text Test, Long & Complex Sentence Test, Multiple Questions Prompt Test, Logical Consistency Test:**
 
 https://github.com/user-attachments/assets/2d4ce48d-c638-44e1-a055-a7d7ff183375
 
